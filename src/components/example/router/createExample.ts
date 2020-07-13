@@ -1,6 +1,5 @@
 import { router } from ".";
 import * as examples from "..";
-import * as mongoose from "mongoose";
 
 router.post("/", async (req, res) => {
     try {

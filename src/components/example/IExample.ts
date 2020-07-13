@@ -1,13 +1,6 @@
 export interface IExample {
-    name: {
-        user: string;
-        nick: string;
+    foo: {
+        bar: string;
     };
-    discordId: string;
-    profile: {
-        picture: string;
-        bio: string;
-    };
-    hash: string;
-    lock: boolean;
+    toto?: number;
 }

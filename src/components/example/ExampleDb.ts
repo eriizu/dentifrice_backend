@@ -3,28 +3,28 @@ import * as examples from ".";
 
 // Schemas describe what gets saved to the database and ressemble closely our interfaces.
 const schema = new mongoose.Schema({
-    name: {
-        user: {
+    foo: {
+        bar: {
             // Types passed in schemas start by a capital letter.
             type: String,
             unique: true,
         },
-        nick: { type: String, required: true },
     },
+    toto: { type: Number },
 });
 
 // Contains methods that can be run on the "db" object (when they are static)
 // or on the "document" object (when they are not)
 class ExampleDbMethodsAndStatics {
     // Methods prototypes need to be added to the Docuement interface
-    public lock(this: examples.IExampleDocument, lock: boolean) {
-        this.lock = lock;
+    public changeToto(this: examples.IExampleDocument, val: number) {
+        this.toto = val;
     }
 
     // Getters and setters need to be added to the Docuement interface as fields/variables
-    set(this: examples.IExampleDocument, password: string) {
-        // Obviously an example
-        this.hash = password;
+    set "foo.bar"(val: string) {
+        // Horrible contraption that we have to use in setters and getters
+        ((this as any) as examples.IExampleDocument).foo.bar = val;
     }
 
     // Static function prototypes need to be added to the Db interface

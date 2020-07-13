@@ -16,5 +16,8 @@
         "src/**/*.test.ts",
         "src/**/*.jest.ts",
         "node_modules"
-    ]
+    ],
+    "typeRoots": [
+        "src/"
+    ],
 }
