@@ -16,7 +16,7 @@ router.put("/:id", async (req, res) => {
     // Same goes for the requesting user: it should be check that the
     // document is theirs or
     try {
-        let example = await examples.db.updateOne({ _id: id }, req.body);
+        let example = await examples.model.updateOne({ _id: id }, req.body);
         if (!example) {
             res.sendStatus(404);
         } else {

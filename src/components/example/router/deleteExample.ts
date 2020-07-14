@@ -13,7 +13,7 @@ router.delete("/:id", async (req, res) => {
 
     // Try and find by ID. If nothing is found, return 404.
     try {
-        let result = await examples.db.deleteOne(id);
+        let result = await examples.model.deleteOne(id);
         if (result.n == 0) {
             res.sendStatus(404);
         } else if (result.deletedCount == 0) {

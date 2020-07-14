@@ -15,7 +15,7 @@ router.get("/:id", async (req, res) => {
 
     // Try and find by ID. If nothing is found, return 404.
     try {
-        let example = await examples.db.findById(id);
+        let example = await examples.model.findById(id);
         if (!example) {
             res.sendStatus(404);
         } else {

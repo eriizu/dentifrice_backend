@@ -4,7 +4,7 @@ import * as examples from "..";
 router.post("/", async (req, res) => {
     try {
         // Creates a document, without saving it yet.
-        let newDoc = new examples.db(req.body);
+        let newDoc = new examples.model(req.body);
 
         // If document has a field referencing its creator or owner:
         // add the creator's id to the field.

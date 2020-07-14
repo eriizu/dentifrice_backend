@@ -5,7 +5,7 @@ import * as mongoose from "mongoose";
 router.get("/", async (_req, res) => {
     try {
         // Find with not parameters will get all entries
-        let example_list = await examples.db.find();
+        let example_list = await examples.model.find();
         if (!example_list) {
             res.sendStatus(404);
         } else {
