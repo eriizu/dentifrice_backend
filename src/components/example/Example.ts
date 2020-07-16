@@ -12,12 +12,12 @@ namespace queryHelpers {
 
     // List all query helper functions here:
     export interface IQueryHelpers {
-        findByToto: QueryMethod<typeof findByToto>;
+        findByTag: QueryMethod<typeof findByTag>;
     }
 
     // Define query helper functions here
-    export function findByToto(this: ReturnModelType<typeof Example, IQueryHelpers>, toto: number) {
-        return this.find({ toto });
+    export function findByTag(this: ReturnModelType<typeof Example, IQueryHelpers>, tag: number) {
+        return this.find({ tag });
     }
 }
 
@@ -26,24 +26,24 @@ export class Foo {
     @prop({ unique: true })
     bar?: string;
 
-    set patate(tata: string) {
+    set setbar(tata: string) {
         this.bar = tata;
     }
 }
 
 @modelOptions({ schemaOptions: { timestamps: true } })
 // This is how we enable query helpers.
-@queryMethod(queryHelpers.findByToto)
+@queryMethod(queryHelpers.findByTag)
 // This is the main document
 export class Example {
     @prop({ _id: false })
     foo?: Foo;
 
     @prop({ required: true })
-    toto!: number;
+    tag!: number;
 
     print() {
-        console.log(this.foo.bar + this.toto);
+        console.log(this.foo.bar + this.tag);
     }
 }
 
@@ -56,4 +56,4 @@ export const model = getModelForClass<typeof Example, queryHelpers.IQueryHelpers
 //     doc._id
 // });
 
-// ExampleModel.find().byToto(12).orFail();
+// ExampleModel.find().byTag(12).orFail();
