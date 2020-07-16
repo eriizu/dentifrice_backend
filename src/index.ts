@@ -1,18 +1,31 @@
-import * as express from "express";
-import * as bodyParser from "body-parser";
+import Webapp from "./webapp";
+import dbConnect, { memoryDbConnect } from "./dbConnect";
+import * as mongoose from "mongoose";
+import * as assert from "assert";
 
-let webApp = express();
+async function start() {
+    let app: Webapp;
+    try {
+        app = new Webapp(3000);
+    } catch (err) {
+        console.error("failed to start server");
+        console.error(err);
+        process.exit(1);
+    }
 
-import * as example from "./components/example";
-
-let components = [{ middlewares: example.middleware || null, routes: example.router }];
-
-let loadMiddleware = () => {
-    webApp.use(bodyParser.json);
-    webApp.use(bodyParser.urlencoded);
-};
-loadMiddleware();
-
-let loadRoutes = () => {
-    // webApp.use
-};
+    let odm: typeof mongoose;
+    try {
+        if (process.env.TEST == "1") {
+            odm = await memoryDbConnect();
+        } else {
+            odm = await dbConnect();
+        }
+        assert(odm.connection.readyState === 1);
+    } catch (err) {
+        console.error("failed to start Object-Data Mapper and database connection.");
+        console.error(err);
+        app.server.close();
+        process.exit(1);
+    }
+}
+start();

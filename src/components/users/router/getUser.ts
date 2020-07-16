@@ -1,4 +1,4 @@
-import { router } from ".";
+import { router } from "./router";
 import * as users from "..";
 import * as mongoose from "mongoose";
 
