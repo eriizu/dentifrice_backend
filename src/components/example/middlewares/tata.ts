@@ -1,3 +1,18 @@
+import { list } from "./list";
 import * as express from "express";
 
-export const tata: express.Handler = function (req, res) {};
+declare global {
+    namespace Express {
+        interface Request {
+            tata: string;
+        }
+    }
+}
+
+export const tata: express.Handler = function (req, _res, next) {
+    req.tata = "tata";
+    console.log("ran tata middleware");
+    next();
+};
+
+list.push(tata);

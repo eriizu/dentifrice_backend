@@ -17,16 +17,20 @@ export default class webapp {
     }
 
     loadMiddleware() {
-        this.express.use(bodyParser.json);
-        this.express.use(bodyParser.urlencoded);
-        components.forEach((comp) => {
-            this.express.use(comp.routes);
+        this.express.use(bodyParser.json());
+        this.express.use(bodyParser.urlencoded({ extended: true }));
+        components?.forEach((comp) => {
+            comp?.middlewares.forEach((midware) => {
+                this.express.use(midware);
+            });
+            // this.express.use(comp.);
         });
     }
 
     loadRoutes() {
-        components.forEach((comp) => {
-            this.express.use(comp.routes);
+        components?.forEach((comp) => {
+            console.log("patate");
+            comp?.useRouter(this.express);
         });
     }
 }
