@@ -1,4 +1,4 @@
-import * as example from "./components/example";
+import * as example from "./components/examples";
 
 export let genericComponents = [
     { middlewares: example.middlewares.list || null, useRouter: example.useRouter || null },
