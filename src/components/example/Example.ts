@@ -34,7 +34,7 @@ export class Foo {
 @modelOptions({ schemaOptions: { timestamps: true } })
 // This is how we enable query helpers.
 @queryMethod(queryHelpers.findByTag)
-// This is the main document
+// Main class of the file, the "Example" entity model.
 export class Example {
     @prop({ _id: false })
     foo?: Foo;
@@ -49,11 +49,3 @@ export class Example {
 
 // This produces the model, which is the object to use when queriying the database.
 export const model = getModelForClass<typeof Example, queryHelpers.IQueryHelpers>(Example);
-
-// ExampleModel.findOne({}).then((doc) => {
-//     doc.print();
-//     doc.foo.patate = "prout";
-//     doc._id
-// });
-
-// ExampleModel.find().byTag(12).orFail();
