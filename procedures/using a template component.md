@@ -10,10 +10,10 @@ Make a copy of `examples`, from the `components` directory and give it the name 
 
 Use `yarn template-dir` with the following arguments:
 - the path to the new directory you have created (relative will do)
-- `examples` (which was the name of the directory, before copy)
-- the name you have given the directory.
+- `example` **singular** (which was the name of the directory, before copy)
+- the name you have given the directory, but **singular**.
 
-Example `yarn template-dir src/components/users examples users`.
+Example `yarn template-dir src/components/users example user`.
 
 > It will replace all occurences of "examples" and retain the original case.
 > e.g.:
