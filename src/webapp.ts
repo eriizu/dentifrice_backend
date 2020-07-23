@@ -2,7 +2,7 @@ import * as express from "express";
 import * as http from "http";
 import * as bodyParser from "body-parser";
 
-import components from "./genericComponents";
+import components from "./loadList";
 
 export default class webapp {
     public express = express();
@@ -20,7 +20,7 @@ export default class webapp {
         this.express.use(bodyParser.json());
         this.express.use(bodyParser.urlencoded({ extended: true }));
         components?.forEach((comp) => {
-            comp?.middlewares.forEach((midware) => {
+            comp?.middlewares?.forEach((midware) => {
                 this.express.use(midware);
             });
             // this.express.use(comp.);
@@ -29,8 +29,8 @@ export default class webapp {
 
     loadRoutes() {
         components?.forEach((comp) => {
-            console.log("patate");
-            comp?.useRouter(this.express);
+            console.log("patate", comp);
+            if (comp?.useRouter) comp.useRouter(this.express);
         });
     }
 }
