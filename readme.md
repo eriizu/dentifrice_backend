@@ -9,7 +9,9 @@
 - clone this repository;
 - run `yarn` to install dependancies;
 - run `yarn build` to compile;
-- run `yarn start` to run.
+- run `TEST=1 yarn start` to run.
+
+`TEST=1` tell the server not to look for a production database. It will create one in RAM instead.
 
 ## Scripts
 
