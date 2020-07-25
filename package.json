@@ -13,14 +13,21 @@
     "private": true,
     "dependencies": {
         "@typegoose/typegoose": "^7.2.0",
+        "assert": "^2.0.0",
+        "bent": "^7.3.7",
+        "cors": "^2.8.5",
         "discord.js": "^12.2.0",
         "express": "^4.17.1",
+        "form-urlencoded": "^4.2.1",
         "mongoose": "^5.9.13"
     },
     "devDependencies": {
         "@eriizu/index-generator": "^1.1.6",
         "@eriizu/template-dir": "^1.0.1",
+        "@types/bent": "^7.3.0",
+        "@types/cors": "^2.8.6",
         "@types/express": "^4.17.6",
+        "@types/form-urlencoded": "^2.0.1",
         "@types/jest": "^25.2.3",
         "@types/mongoose": "^5.7.21",
         "@types/node": "^14.0.10",
