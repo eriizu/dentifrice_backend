@@ -47,8 +47,18 @@ Voici un exemple de code qui procède à l'échange.
   }
 ```
 
-## 3. Rafraichir le jeton en cas d'expiration
+## 3. Utiliser le jeton pour authentifier des requêtes
+
+Pour que le jeton soit utilisé lors des requêtes, il faut ajouter un header `Authorization`, à toutes les requêtes, contenant `Bearer` suivi d'un espace et du `access_token`.
+
+Testez votre implémentation en faisant un requête sur `http://localhost:9000/users/self`.
+
+## 4. Rafraichir le jeton en cas d'expiration
 
 Quand l'access_token expire, il faut utiliser la même route que sur l'étape précédente, mais plutot que d'envoyer `code`, il faut envoyer `refresh_token` avec le jeton de rafraichissement sauvegardé précédement.
 
 Une nouvelle paire `access_token`, `refresh_token` sere alors délivrée.
+
+> Vous saurez qu'un jeton n'est plus valide quand vous receverez des erreurs 401 sur des requêtes vraissemblablement correctes.
+
+> Si vous recevez une 403, en revanche, il s'agit d'une resource à laquelle vous navez explicitement pas le droit d'accèder.
