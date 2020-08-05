@@ -3,13 +3,15 @@
 ## Pre-requisites
 
 - `yarn` https://yarnpkg.com/
+- A `conf.env` file, that you should ask your team for.
 
 ## Installation
 
 - clone this repository;
 - run `yarn` to install dependancies;
 - run `yarn build` to compile;
-- run `TEST=1 yarn start` to run.
+- run `export $(cat conf.env | xargs)` to load the configuration you've been given;
+- run `yarn start` to run.
 
 `TEST=1` tell the server not to look for a production database. It will create one in RAM instead.
 
