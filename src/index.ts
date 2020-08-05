@@ -6,7 +6,7 @@ import * as assert from "assert";
 async function start() {
     let app: Webapp;
     try {
-        app = new Webapp(3000);
+        app = new Webapp(9000);
     } catch (err) {
         console.error("failed to start server");
         console.error(err);

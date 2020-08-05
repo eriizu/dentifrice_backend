@@ -1,9 +1,9 @@
-import * as example from "./components/examples";
+import * as context from "./components/context";
 
 export let loadList = [
     {
-        middlewares: example.middlewares.list || undefined,
-        useRouter: example.useRouter || undefined,
+        getMiddlewares: context.middlewares.getGlobal || undefined,
+        useRouter: context.useRouter || undefined,
     },
 ];
 
@@ -11,8 +11,9 @@ import * as components from "./components";
 
 loadList.pop();
 for (let comp in components) {
+    console.log("adding component to load list: ", comp);
     loadList.push({
-        middlewares: components[comp]?.middlewares?.list,
+        getMiddlewares: components[comp]?.middlewares?.getGlobal,
         useRouter: components[comp]?.useRouter,
     });
 }

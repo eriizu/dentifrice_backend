@@ -1,4 +1,4 @@
 // Automatically generated index
-export * from "./Context";
+export * from "./User";
 export * as middlewares from "./middlewares";
 export * from "./router";

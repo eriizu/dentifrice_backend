@@ -1,5 +1,8 @@
+import { DocumentType } from "@typegoose/typegoose";
+import * as users from "../users";
+
 export class Context {
-    public loggedIn: boolean;
+    public author?: DocumentType<users.User>;
 }
 
 declare global {
