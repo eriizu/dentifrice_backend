@@ -1,3 +1,3 @@
 // Automatically generated index
-export * from "./getExample";
+export * from "./getUser";
 export * from "./router";

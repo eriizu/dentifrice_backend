@@ -28,3 +28,9 @@ There should be a file called `NameOfYourComponent.ts`, containing an class defi
 Inside the class, they are "props".
 
 Edit this class so it matches the data model you want to implement.
+
+# WARNING
+
+In the example component, the router folder is a bit outdated. You should replace it with the contents of the "empty router" from this "procedures" folder.
+
+> FYI the code still works, but won't allow for the use of "non-global" middleware. The kind you have to add on a route-by-route basis.
