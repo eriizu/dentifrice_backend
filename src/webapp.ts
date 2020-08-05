@@ -2,6 +2,7 @@ import * as express from "express";
 import * as http from "http";
 import * as cors from "cors";
 import * as bodyParser from "body-parser";
+import * as HttpError from "./HttpError";
 
 import components from "./loadList";
 
@@ -12,6 +13,7 @@ export default class webapp {
     constructor(port: number = parseInt(process.env.API_PORT)) {
         this.loadMiddleware();
         this.loadRoutes();
+        this.loadErrorHandlers();
         this.server = this.express.listen(port, () => {
             console.log(`listening on port ${port}`);
         });
@@ -23,9 +25,10 @@ export default class webapp {
         this.express.use(bodyParser.json());
         this.express.use(bodyParser.urlencoded({ extended: true }));
         components?.forEach((comp) => {
-            comp?.middlewares?.forEach((midware) => {
-                this.express.use(midware);
-            });
+            if (typeof comp.getMiddlewares === "function")
+                comp.getMiddlewares()?.forEach((middleware) => {
+                    if (middleware) this.express.use(middleware);
+                });
             // this.express.use(comp.);
         });
     }
@@ -33,9 +36,12 @@ export default class webapp {
     loadRoutes() {
         components?.forEach((comp) => {
             if (comp?.useRouter) {
-                console.log("about to use");
                 comp.useRouter(this.express);
             }
         });
+    }
+
+    loadErrorHandlers() {
+        this.express.use(HttpError.handler);
     }
 }

@@ -11,7 +11,6 @@ declare global {
 
 export const tata: express.Handler = function (req, _res, next) {
     req.tata = "tata";
-    console.log("ran tata middleware");
     next();
 };
 
