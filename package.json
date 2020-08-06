@@ -27,7 +27,6 @@
         "@types/bent": "^7.3.0",
         "@types/cors": "^2.8.6",
         "@types/express": "^4.17.6",
-        "@types/form-urlencoded": "^2.0.1",
         "@types/jest": "^25.2.3",
         "@types/mongoose": "^5.7.21",
         "@types/node": "^14.0.10",
