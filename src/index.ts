@@ -2,6 +2,7 @@ import Webapp from "./webapp";
 import dbConnect, { memoryDbConnect } from "./dbConnect";
 import * as mongoose from "mongoose";
 import * as assert from "assert";
+import seed from "./components/villagers/seed";
 
 async function start() {
     let app: Webapp;
@@ -29,3 +30,4 @@ async function start() {
     }
 }
 start();
+seed();

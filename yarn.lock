@@ -649,11 +649,6 @@
   dependencies:
     "@types/node" "*"
 
-"@types/form-urlencoded@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@types/form-urlencoded/-/form-urlencoded-2.0.1.tgz#5c7789aca2681564116c3d278359232527e14ba1"
-  integrity sha512-Kz3LwezuNvsQF8ZcswMv4b5ZhKmjTkH2Rxle6l/520Npvaxho6b4HN9lStp6HhGrZsL/rwJHpWK9vM1RA7uZbw==
-
 "@types/get-port@^4.0.1":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@types/get-port/-/get-port-4.2.0.tgz#4fc44616c737d37d3ee7926d86fa975d0afba5e4"
@@ -3388,6 +3383,11 @@ mongodb@^3.5.4:
     safe-buffer "^5.1.2"
   optionalDependencies:
     saslprep "^1.0.0"
+
+mongoose-autopopulate@^0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/mongoose-autopopulate/-/mongoose-autopopulate-0.12.2.tgz#5209c7f9934b2642d2eac1afc84d289316138a84"
+  integrity sha512-ZpjylV6ty0iqNjSWPgQWDMaBExnXrvCNhci9EnX49O0fOIVES1Qc7r1d+nxYBKvQutYW5UWs+fauahOTTlpjww==
 
 mongoose-legacy-pluralize@1.0.2:
   version "1.0.2"

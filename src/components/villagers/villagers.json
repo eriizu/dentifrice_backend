@@ -1,0 +1,6258 @@
+[
+    {
+        "nameFR": "Aaron",
+        "nameEN": "Chops",
+        "catchPhrase": "lardon",
+        "imageUrl": "aaron.png",
+        "birthday": {
+            "day": "13",
+            "month": 10
+        },
+        "species": "Cochon",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Rouge", "Vert"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Un esprit sain dans un porcin."
+    },
+    {
+        "nameFR": "Abraham",
+        "nameEN": "Erik",
+        "catchPhrase": "breuh",
+        "imageUrl": "abraham.png",
+        "birthday": {
+            "day": "27",
+            "month": 7
+        },
+        "species": "Cerf",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Beige", "Rouge"],
+        "clothes": ["Simple"],
+        "quote": "Manger ou dormir il faut choisir."
+    },
+    {
+        "nameFR": "Agnès",
+        "nameEN": "June",
+        "catchPhrase": "cacou",
+        "imageUrl": "agnes.png",
+        "birthday": {
+            "day": "21",
+            "month": 5
+        },
+        "species": "Ourson",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Blanc", "Rouge"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Ne vis pas tes rêves car les rêves c'est n'importe quoi."
+    },
+    {
+        "nameFR": "Aimé",
+        "nameEN": "Mott",
+        "catchPhrase": "grif-grif",
+        "imageUrl": "aime.png",
+        "birthday": {
+            "day": "10",
+            "month": 7
+        },
+        "species": "Lion",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Vert"],
+        "clothes": ["Élégant", "Sportif"],
+        "quote": "Le lion n'a peur que d'un autre lion."
+    },
+    {
+        "nameFR": "Alice",
+        "nameEN": "Alice",
+        "catchPhrase": "chef",
+        "imageUrl": "alice.png",
+        "birthday": {
+            "day": "19",
+            "month": 8
+        },
+        "species": "Koala",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rouge", "Rose"],
+        "clothes": ["Mignon"],
+        "quote": "Vive les quoi ? Vive les quoi ? Vive les koalas"
+    },
+    {
+        "nameFR": "Allie",
+        "nameEN": "Alli",
+        "catchPhrase": "graaagh",
+        "imageUrl": "allie.png",
+        "birthday": {
+            "day": "8",
+            "month": 11
+        },
+        "species": "Crocodile",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Jaune", "Marron"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "L'accro au shopping."
+    },
+    {
+        "nameFR": "Alphonse",
+        "nameEN": "Alfonso",
+        "catchPhrase": "moi moi",
+        "imageUrl": "alphonse.png",
+        "birthday": {
+            "day": "9",
+            "month": 6
+        },
+        "species": "Crocodile",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Rouge", "Bleu"],
+        "clothes": ["Simple"],
+        "quote": "Je ferais bien une petite sieste moi..."
+    },
+    {
+        "nameFR": "Amande",
+        "nameEN": "Mint",
+        "catchPhrase": "ahhhhhh",
+        "imageUrl": "amande.png",
+        "birthday": {
+            "day": "2",
+            "month": 5
+        },
+        "species": "Écureuil",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Mauve"],
+        "clothes": ["Mignon", "Somptueux"],
+        "quote": "Brosse-toi bien les dents. Il est important de garder des dents saines et fortes"
+    },
+    {
+        "nameFR": "Anabelle",
+        "nameEN": "Anabelle",
+        "catchPhrase": "grognon",
+        "imageUrl": "anabelle.png",
+        "birthday": {
+            "day": "16",
+            "month": 2
+        },
+        "species": "Tapir",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "La vie c'est comme une piste de danse"
+    },
+    {
+        "nameFR": "Âne-lise",
+        "nameEN": "Annalise",
+        "catchPhrase": "galapia",
+        "imageUrl": "ane-lise.png",
+        "birthday": {
+            "day": "2",
+            "month": 12
+        },
+        "species": "Cheval",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Sportif", "Élégant"],
+        "quote": "J'ai la fièvre acheteuse"
+    },
+    {
+        "nameFR": "Angus",
+        "nameEN": "Angus",
+        "catchPhrase": "meuh meuh",
+        "imageUrl": "angus.png",
+        "birthday": {
+            "day": "30",
+            "month": 4
+        },
+        "species": "Taureau",
+        "personality": "Versatile 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Noir"],
+        "clothes": ["Cool"],
+        "quote": "Même les hommes les plus endurcis peuvent pleurer."
+    },
+    {
+        "nameFR": "Anna",
+        "nameEN": "Cherry",
+        "catchPhrase": "niniche",
+        "imageUrl": "anna.png",
+        "birthday": {
+            "day": "11",
+            "month": 5
+        },
+        "species": "Chien",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Noir", "Mauve"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Les chiens aboient et la caravane passe..."
+    },
+    {
+        "nameFR": "Anne",
+        "nameEN": "Winnie",
+        "catchPhrase": "youp là",
+        "imageUrl": "anne.png",
+        "birthday": {
+            "day": "31",
+            "month": 1
+        },
+        "species": "Cheval",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Blanc", "Gris"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "T'as des plans pour ce week-end ? On fait quoi ?"
+    },
+    {
+        "nameFR": "Annie",
+        "nameEN": "Anicotti",
+        "catchPhrase": "dis donc",
+        "imageUrl": "annie.png",
+        "birthday": {
+            "day": "24",
+            "month": 2
+        },
+        "species": "Souris",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rouge", "Rose"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Vivement les soldes"
+    },
+    {
+        "nameFR": "Antonio",
+        "nameEN": "Antonio",
+        "catchPhrase": "pouet",
+        "imageUrl": "antonio.png",
+        "birthday": {
+            "day": "20",
+            "month": 10
+        },
+        "species": "Tapir",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Simple"],
+        "quote": "Une vie sans risques c'est comme une platine sans disque"
+    },
+    {
+        "nameFR": "Apollon",
+        "nameEN": "Apollo",
+        "catchPhrase": "trraaaa",
+        "imageUrl": "apollon.png",
+        "birthday": {
+            "day": "4",
+            "month": 7
+        },
+        "species": "Aigle",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Noir"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Le comble de l'aigle c'est quand il ne serre à rien"
+    },
+    {
+        "nameFR": "Arnold",
+        "nameEN": "Coach",
+        "catchPhrase": "mon cou",
+        "imageUrl": "arnold.png",
+        "birthday": {
+            "day": "29",
+            "month": 4
+        },
+        "species": "Taureau",
+        "personality": "Sportif 1",
+        "interest": "Sport",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Sportif"],
+        "quote": "Dupe-moi une fois tu es une fripouille. Dupe-moi deux fois je suis une andouille."
+    },
+    {
+        "nameFR": "Aurélie",
+        "nameEN": "Amelia",
+        "catchPhrase": "croooa",
+        "imageUrl": "aurelie.png",
+        "birthday": {
+            "day": "19",
+            "month": 11
+        },
+        "species": "Aigle",
+        "personality": "Arrogante 2",
+        "interest": "Art",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Se pomponner c'est aussi vital que manger boire et dormir"
+    },
+    {
+        "nameFR": "Aurore",
+        "nameEN": "Aurora",
+        "catchPhrase": "b-b-bébé",
+        "imageUrl": "aurore.png",
+        "birthday": {
+            "day": "27",
+            "month": 1
+        },
+        "species": "Pingouin",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Garde toujours la tête froide"
+    },
+    {
+        "nameFR": "Avril",
+        "nameEN": "Butch",
+        "catchPhrase": "WROOOOUF",
+        "imageUrl": "avril.png",
+        "birthday": {
+            "day": "1",
+            "month": 11
+        },
+        "species": "Chien",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Bleu", "Gris"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Dormir c'est bien."
+    },
+    {
+        "nameFR": "Axel",
+        "nameEN": "Axel",
+        "catchPhrase": "splaf",
+        "imageUrl": "axel.png",
+        "birthday": {
+            "day": "23",
+            "month": 3
+        },
+        "species": "Éléphant",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Vert", "Blanc"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "On a toujours besoin d'un plus gringalet que soi."
+    },
+    {
+        "nameFR": "Babouin",
+        "nameEN": "Boone",
+        "catchPhrase": "ma noix",
+        "imageUrl": "babouin.png",
+        "birthday": {
+            "day": "12",
+            "month": 9
+        },
+        "species": "Gorille",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Multicolore", "Rouge"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Pourquoi viser la deuxième place quand tu peux être un as ?"
+    },
+    {
+        "nameFR": "Bajoue",
+        "nameEN": "Huck",
+        "catchPhrase": "nouille",
+        "imageUrl": "bajoue.png",
+        "birthday": {
+            "day": "9",
+            "month": 7
+        },
+        "species": "Grenouille",
+        "personality": "Chic 1",
+        "interest": "Sport",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Longtemps après que le café est bu la bouche a encore chaud et l'oeil n'est pas encore clos."
+    },
+    {
+        "nameFR": "Barry",
+        "nameEN": "Tucker",
+        "catchPhrase": "mammouth",
+        "imageUrl": "barry.png",
+        "birthday": {
+            "day": "7",
+            "month": 9
+        },
+        "species": "Éléphant",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Ivoire ? Y voir quoi ? Je vois rien moi ?"
+    },
+    {
+        "nameFR": "Béa",
+        "nameEN": "Bea",
+        "catchPhrase": "mon chaton",
+        "imageUrl": "bea.png",
+        "birthday": {
+            "day": "15",
+            "month": 10
+        },
+        "species": "Chien",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "clair", "Vert"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Quand il y a un os c'est que tout va bien."
+    },
+    {
+        "nameFR": "Bebel",
+        "nameEN": "Rocco",
+        "catchPhrase": "babi",
+        "imageUrl": "bebel.png",
+        "birthday": {
+            "day": "18",
+            "month": 8
+        },
+        "species": "Hippopotame",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Jaune", "Noir"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Tu sens le patchouli"
+    },
+    {
+        "nameFR": "Bébert",
+        "nameEN": "Weber",
+        "catchPhrase": "plumeau",
+        "imageUrl": "bebert.png",
+        "birthday": {
+            "day": "30",
+            "month": 6
+        },
+        "species": "Canard",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "C'est au gré des flots et du temps que le caneton deviendra grand."
+    },
+    {
+        "nameFR": "Bêêtty",
+        "nameEN": "Baabara",
+        "catchPhrase": "chêêêri",
+        "imageUrl": "beetty.png",
+        "birthday": {
+            "day": "28",
+            "month": 3
+        },
+        "species": "Mouton",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Bleu"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Ma laine est toujours fraîche"
+    },
+    {
+        "nameFR": "Belle",
+        "nameEN": "Bella",
+        "catchPhrase": "hiiiii",
+        "imageUrl": "belle.png",
+        "birthday": {
+            "day": "28",
+            "month": 12
+        },
+        "species": "Souris",
+        "personality": "Vive 2",
+        "interest": "Art",
+        "colors": ["Noir", "Mauve"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Je sais je devrais tourner ma langue sept fois dans ma bouche avant de parler hi hi hi"
+    },
+    {
+        "nameFR": "Ben",
+        "nameEN": "Tank",
+        "catchPhrase": "kaboum",
+        "imageUrl": "ben.png",
+        "birthday": {
+            "day": "6",
+            "month": 5
+        },
+        "species": "Rhinocéros",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Vert"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Si t'en as marre de n'être qu'un pion fais donc un peu de musculation"
+    },
+    {
+        "nameFR": "Bengale",
+        "nameEN": "Bangle",
+        "catchPhrase": "ma souris",
+        "imageUrl": "bengale.png",
+        "birthday": {
+            "day": "27",
+            "month": 8
+        },
+        "species": "Tigre",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Jaune", "Vert"],
+        "clothes": ["Mignon", "Somptueux"],
+        "quote": "Attention je griffe  LOL"
+    },
+    {
+        "nameFR": "Bérénice",
+        "nameEN": "Eunice",
+        "catchPhrase": "bêbêêêêh",
+        "imageUrl": "berenice.png",
+        "birthday": {
+            "day": "3",
+            "month": 4
+        },
+        "species": "Mouton",
+        "personality": "Normale 2",
+        "interest": "Mode",
+        "colors": ["Beige", "Orange"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Pas de brebis galeuse dans ma famille"
+    },
+    {
+        "nameFR": "Bernardo",
+        "nameEN": "Benjamin",
+        "catchPhrase": "croquettes",
+        "imageUrl": "bernardo.png",
+        "birthday": {
+            "day": "3",
+            "month": 8
+        },
+        "species": "Chien",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Rouge", "Blanc"],
+        "clothes": ["Simple"],
+        "quote": "Parfois j'ai l'impression d'être un chien dans un jeu de quilles..."
+    },
+    {
+        "nameFR": "Bertha",
+        "nameEN": "Bertha",
+        "catchPhrase": "rololol",
+        "imageUrl": "bertha.png",
+        "birthday": {
+            "day": "25",
+            "month": 4
+        },
+        "species": "Hippopotame",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Un pique-nique entre deux siestes c'est un sandwich de bonheur"
+    },
+    {
+        "nameFR": "Beubeu",
+        "nameEN": "Stu",
+        "catchPhrase": "meuh quoi",
+        "imageUrl": "beubeu.png",
+        "birthday": {
+            "day": "20",
+            "month": 4
+        },
+        "species": "Taureau",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Marron", "Beige"],
+        "clothes": ["Simple"],
+        "quote": "La vache a l'âge de ses naseaux."
+    },
+    {
+        "nameFR": "Bibi",
+        "nameEN": "Fauna",
+        "catchPhrase": "toudoux",
+        "imageUrl": "bibi.png",
+        "birthday": {
+            "day": "26",
+            "month": 3
+        },
+        "species": "Cerf",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Beige", "Blanc"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Il n'y a que le premier pas qui coûte... sauf s'il y a des péages sur l'autoroute"
+    },
+    {
+        "nameFR": "Bichoune",
+        "nameEN": "Deirdre",
+        "catchPhrase": "pan",
+        "imageUrl": "bichoune.png",
+        "birthday": {
+            "day": "4",
+            "month": 5
+        },
+        "species": "Cerf",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Orange"],
+        "clothes": ["Simple"],
+        "quote": "Jambes de gazelle et cœur de lionne"
+    },
+    {
+        "nameFR": "Biff",
+        "nameEN": "Biff",
+        "catchPhrase": "hips hips",
+        "imageUrl": "biff.png",
+        "birthday": {
+            "day": "29",
+            "month": 3
+        },
+        "species": "Hippopotame",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Noir", "Bleu"],
+        "clothes": ["Sportif", "Somptueux"],
+        "quote": "Celui qui arrive deuxième est le plus fort des perdants."
+    },
+    {
+        "nameFR": "Bigoudi",
+        "nameEN": "Stella",
+        "catchPhrase": "mon agneau",
+        "imageUrl": "bigoudi.png",
+        "birthday": {
+            "day": "9",
+            "month": 4
+        },
+        "species": "Mouton",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Jaune", "Beige"],
+        "clothes": ["Simple"],
+        "quote": "Le naturel c'est ma nature."
+    },
+    {
+        "nameFR": "Bill",
+        "nameEN": "Kody",
+        "catchPhrase": "grih grih",
+        "imageUrl": "bill.png",
+        "birthday": {
+            "day": "28",
+            "month": 9
+        },
+        "species": "Ourson",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Multicolore", "Blanc"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Si tu arrives à toucher le ciel essaie d'attraper le soleil"
+    },
+    {
+        "nameFR": "Biquette",
+        "nameEN": "Chevre",
+        "catchPhrase": "la baa",
+        "imageUrl": "biquette.png",
+        "birthday": {
+            "day": "6",
+            "month": 3
+        },
+        "species": "Chèvre",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rouge", "Rose"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Cours après tes rêves sans trêve  Mais alors j'espère que t'aimes courir sans rire..."
+    },
+    {
+        "nameFR": "Blair",
+        "nameEN": "Olaf",
+        "catchPhrase": "tartarin",
+        "imageUrl": "blair.png",
+        "birthday": {
+            "day": "19",
+            "month": 5
+        },
+        "species": "Tapir",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Rouge", "Noir"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Fie-toi à ton pif."
+    },
+    {
+        "nameFR": "Blanche",
+        "nameEN": "Whitney",
+        "catchPhrase": "sbam",
+        "imageUrl": "blanche.png",
+        "birthday": {
+            "day": "17",
+            "month": 9
+        },
+        "species": "Loup",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Réfléchis bien avant de me mettre en colère"
+    },
+    {
+        "nameFR": "Bob",
+        "nameEN": "Harry",
+        "catchPhrase": "mille",
+        "imageUrl": "bob.png",
+        "birthday": {
+            "day": "7",
+            "month": 1
+        },
+        "species": "Hippopotame",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Vert", "Orange"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "La patience c'est pour ceux qui ont du temps à perdre."
+    },
+    {
+        "nameFR": "Bonno",
+        "nameEN": "Hugh",
+        "catchPhrase": "cuick",
+        "imageUrl": "bonno.png",
+        "birthday": {
+            "day": "30",
+            "month": 12
+        },
+        "species": "Cochon",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Beige", "Jaune"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Ce n'est pas parce que je suis un porc que je ne sais pas me tenir à table."
+    },
+    {
+        "nameFR": "Boris",
+        "nameEN": "Boris",
+        "catchPhrase": "minot",
+        "imageUrl": "boris.png",
+        "birthday": {
+            "day": "6",
+            "month": 11
+        },
+        "species": "Cochon",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Mauve", "Noir"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "La vie c'est comme le chocolat  plus c'est noir plus c'est amer."
+    },
+    {
+        "nameFR": "Boubou",
+        "nameEN": "Bruce",
+        "catchPhrase": "nunul",
+        "imageUrl": "boubou.png",
+        "birthday": {
+            "day": "26",
+            "month": 5
+        },
+        "species": "Cerf",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Rouge"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Personne n'est parfait."
+    },
+    {
+        "nameFR": "Bouloche",
+        "nameEN": "Dom",
+        "catchPhrase": "broutille",
+        "imageUrl": "bouloche.png",
+        "birthday": {
+            "day": "18",
+            "month": 3
+        },
+        "species": "Mouton",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Rouge", "Multicolore"],
+        "clothes": ["Mignon", "Sportif"],
+        "quote": "Mêêême pas vrai"
+    },
+    {
+        "nameFR": "Bourrico",
+        "nameEN": "Papi",
+        "catchPhrase": "en selle",
+        "imageUrl": "bourrico.png",
+        "birthday": {
+            "day": "10",
+            "month": 1
+        },
+        "species": "Cheval",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Orange", "Bleu", "clair"],
+        "clothes": ["Simple"],
+        "quote": "Un tiens vaut mieux pour toi et tant pis pour les autres"
+    },
+    {
+        "nameFR": "Brutus",
+        "nameEN": "Mac",
+        "catchPhrase": "babines",
+        "imageUrl": "brutus.png",
+        "birthday": {
+            "day": "11",
+            "month": 11
+        },
+        "species": "Chien",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Noir"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Même si la vie vous fait des crosses faut savoir rester le boss."
+    },
+    {
+        "nameFR": "Cachou",
+        "nameEN": "Blaire",
+        "catchPhrase": "coquille",
+        "imageUrl": "cachou.png",
+        "birthday": {
+            "day": "3",
+            "month": 7
+        },
+        "species": "Écureuil",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Orange", "Marron"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Le gland ne tombe jamais loin du chêne... ou bien est-ce l'inverse...?"
+    },
+    {
+        "nameFR": "Câlin",
+        "nameEN": "Kid Cat",
+        "catchPhrase": "psst",
+        "imageUrl": "calin.png",
+        "birthday": {
+            "day": "1",
+            "month": 8
+        },
+        "species": "Chat",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Si tu sens fort c'est que t'as fait des efforts"
+    },
+    {
+        "nameFR": "Calypso",
+        "nameEN": "Yuka",
+        "catchPhrase": "tss tss",
+        "imageUrl": "calypso.png",
+        "birthday": {
+            "day": "20",
+            "month": 7
+        },
+        "species": "Koala",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Orange", "Jaune"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Ce n'est pas ce qui est beau qui plaît mais ce qui plaît qui est beau."
+    },
+    {
+        "nameFR": "Camille",
+        "nameEN": "Gala",
+        "catchPhrase": "tigroin",
+        "imageUrl": "camille.png",
+        "birthday": {
+            "day": "5",
+            "month": 3
+        },
+        "species": "Cochon",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Méfie-toi de l'eau qui dort  tu risques d'être éclaboussé si elle se réveille en sursaut."
+    },
+    {
+        "nameFR": "Candy",
+        "nameEN": "Megan",
+        "catchPhrase": "berlingot",
+        "imageUrl": "candy.png",
+        "birthday": {
+            "day": "13",
+            "month": 3
+        },
+        "species": "Ours",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Jaune", "Bleu", "clair"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "On peut s'inspirer des autres s'ils ont de bonnes idées."
+    },
+    {
+        "nameFR": "Capri",
+        "nameEN": "Sherb",
+        "catchPhrase": "bââââille",
+        "imageUrl": "capri.png",
+        "birthday": {
+            "day": "18",
+            "month": 1
+        },
+        "species": "Chèvre",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Gris", "Bleu"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "On ne va pas en faire tout un fromage"
+    },
+    {
+        "nameFR": "Carlos",
+        "nameEN": "Croque",
+        "catchPhrase": "crapoupou",
+        "imageUrl": "carlos.png",
+        "birthday": {
+            "day": "18",
+            "month": 7
+        },
+        "species": "Grenouille",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Rouge", "Orange"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Y a pas de fumée sans feu."
+    },
+    {
+        "nameFR": "Caro",
+        "nameEN": "Freckles",
+        "catchPhrase": "poussin",
+        "imageUrl": "caro.png",
+        "birthday": {
+            "day": "19",
+            "month": 2
+        },
+        "species": "Canard",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Multicolore"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Vive moi hi hi"
+    },
+    {
+        "nameFR": "Cashmir",
+        "nameEN": "Cashmere",
+        "catchPhrase": "bêllissime",
+        "imageUrl": "cashmir.png",
+        "birthday": {
+            "day": "2",
+            "month": 4
+        },
+        "species": "Mouton",
+        "personality": "Arrogante 1",
+        "interest": "Mode",
+        "colors": ["Mauve", "Beige"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Bonne laine et bonne haleine sont les mamelles du bonheur."
+    },
+    {
+        "nameFR": "Cédric",
+        "nameEN": "Punchy",
+        "catchPhrase": "blébléblé",
+        "imageUrl": "cedric.png",
+        "birthday": {
+            "day": "11",
+            "month": 4
+        },
+        "species": "Chat",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Simple"],
+        "quote": "Trop cool"
+    },
+    {
+        "nameFR": "Célia",
+        "nameEN": "Cally",
+        "catchPhrase": "yeeeees",
+        "imageUrl": "celia.png",
+        "birthday": {
+            "day": "4",
+            "month": 9
+        },
+        "species": "Écureuil",
+        "personality": "Normale 2",
+        "interest": "Nature",
+        "colors": ["Rouge", "Vert"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Tant qu'il y a des noisettes il y a de l'espoir."
+    },
+    {
+        "nameFR": "César",
+        "nameEN": "Cesar",
+        "catchPhrase": "brutus",
+        "imageUrl": "cesar.png",
+        "birthday": {
+            "day": "6",
+            "month": 9
+        },
+        "species": "Gorille",
+        "personality": "Versatile 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Ma barbe est morte longue vie à ma moustache"
+    },
+    {
+        "nameFR": "Charlène",
+        "nameEN": "Muffy",
+        "catchPhrase": "tricoti",
+        "imageUrl": "charlene.png",
+        "birthday": {
+            "day": "14",
+            "month": 2
+        },
+        "species": "Mouton",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Noir", "Mauve"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Qui me cherche me trouve sauf si chuis pas là."
+    },
+    {
+        "nameFR": "Charles",
+        "nameEN": "Hamphrey",
+        "catchPhrase": "balivernes",
+        "imageUrl": "charles.png",
+        "birthday": {
+            "day": "25",
+            "month": 2
+        },
+        "species": "Hamster",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Gris", "Beige"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Les enfants c'est bien. De loin."
+    },
+    {
+        "nameFR": "Chavrina",
+        "nameEN": "Pashmina",
+        "catchPhrase": "mon moulin",
+        "imageUrl": "chavrina.png",
+        "birthday": {
+            "day": "26",
+            "month": 12
+        },
+        "species": "Chèvre",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Rouge", "Multicolore"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Jeu de main jeu caprin."
+    },
+    {
+        "nameFR": "Chef",
+        "nameEN": "Chief",
+        "catchPhrase": "mmmph",
+        "imageUrl": "chef.png",
+        "birthday": {
+            "day": "19",
+            "month": 12
+        },
+        "species": "Loup",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Blanc", "Gris"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "N'espère pas que ça soit plus facile espère que tu vas t'améliorer."
+    },
+    {
+        "nameFR": "Chico",
+        "nameEN": "Rodney",
+        "catchPhrase": "caries",
+        "imageUrl": "chico.png",
+        "birthday": {
+            "day": "10",
+            "month": 11
+        },
+        "species": "Hamster",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Rose", "Multicolore"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "Profite du jour présent pour pioncer."
+    },
+    {
+        "nameFR": "Choco",
+        "nameEN": "Bill",
+        "catchPhrase": "choupichou",
+        "imageUrl": "choco.png",
+        "birthday": {
+            "day": "1",
+            "month": 2
+        },
+        "species": "Canard",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Sportif"],
+        "quote": "La raison du plus musclé est toujours la meilleure"
+    },
+    {
+        "nameFR": "Chuck",
+        "nameEN": "Sly",
+        "catchPhrase": "repos",
+        "imageUrl": "chuck.png",
+        "birthday": {
+            "day": "15",
+            "month": 11
+        },
+        "species": "Crocodile",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Marron", "Vert"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Attention à ne pas avoir les yeux plus gros que les biceps"
+    },
+    {
+        "nameFR": "Chulin",
+        "nameEN": "Chow",
+        "catchPhrase": "lala",
+        "imageUrl": "chulin.png",
+        "birthday": {
+            "day": "22",
+            "month": 7
+        },
+        "species": "Ours",
+        "personality": "Versatile 2",
+        "interest": "Sport",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Toutes les bonnes choses ont une fin."
+    },
+    {
+        "nameFR": "Civet",
+        "nameEN": "O'Hare",
+        "catchPhrase": "pécaïre",
+        "imageUrl": "civet.png",
+        "birthday": {
+            "day": "24",
+            "month": 7
+        },
+        "species": "Lapin",
+        "personality": "Chic 2",
+        "interest": "Nature",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Ce n'est pas has-been c'est vintage."
+    },
+    {
+        "nameFR": "Clara",
+        "nameEN": "Bunnie",
+        "catchPhrase": "hé hé hé",
+        "imageUrl": "clara.png",
+        "birthday": {
+            "day": "9",
+            "month": 5
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Rose"],
+        "clothes": ["Mignon"],
+        "quote": "Interdiction de me poser un lapin"
+    },
+    {
+        "nameFR": "Clarabêl",
+        "nameEN": "Frita",
+        "catchPhrase": "mouêêê",
+        "imageUrl": "clarabel.png",
+        "birthday": {
+            "day": "16",
+            "month": 7
+        },
+        "species": "Mouton",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Jaune", "Rouge"],
+        "clothes": ["Mignon", "Sportif"],
+        "quote": "Demain est un autre jour après-demain aussi."
+    },
+    {
+        "nameFR": "Claude",
+        "nameEN": "Claude",
+        "catchPhrase": "sans rire",
+        "imageUrl": "claude.png",
+        "birthday": {
+            "day": "3",
+            "month": 12
+        },
+        "species": "Lapin",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Multicolore"],
+        "clothes": ["Simple"],
+        "quote": "L'important c'est ce qu'il y a à l'intérieur surtout si tu es un gâteau."
+    },
+    {
+        "nameFR": "Cléa",
+        "nameEN": "Cleo",
+        "catchPhrase": "beauté",
+        "imageUrl": "clea.png",
+        "birthday": {
+            "day": "9",
+            "month": 2
+        },
+        "species": "Cheval",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Bleu", "clair", "Blanc"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Tout corps plongé dans son bain en sort mouillé."
+    },
+    {
+        "nameFR": "Coco",
+        "nameEN": "Coco",
+        "catchPhrase": "touloulou",
+        "imageUrl": "coco.png",
+        "birthday": {
+            "day": "1",
+            "month": 3
+        },
+        "species": "Lapin",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Beige", "Vert"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Ne remets pas à demain ce que tu peux faire faire par quelqu'un d'autre."
+    },
+    {
+        "nameFR": "Colvert",
+        "nameEN": "Drake",
+        "catchPhrase": "canard",
+        "imageUrl": "colvert.png",
+        "birthday": {
+            "day": "25",
+            "month": 6
+        },
+        "species": "Canard",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Marron", "Rouge"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Dis tu veux bien m'inviter à manger ?"
+    },
+    {
+        "nameFR": "Condor",
+        "nameEN": "Lucha",
+        "catchPhrase": "yaaaah",
+        "imageUrl": "condor.png",
+        "birthday": {
+            "day": "12",
+            "month": 12
+        },
+        "species": "Oiseau",
+        "personality": "Chic 1",
+        "interest": "Sport",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Mieux vaut avoir aimé et piaillé que de n'avoir jamais aimé du tout."
+    },
+    {
+        "nameFR": "Cookie",
+        "nameEN": "Cookie",
+        "catchPhrase": "woufi",
+        "imageUrl": "cookie.png",
+        "birthday": {
+            "day": "18",
+            "month": 6
+        },
+        "species": "Chien",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Bleu", "clair"],
+        "clothes": ["Mignon"],
+        "quote": "Toujours partante pour une virée shopping"
+    },
+    {
+        "nameFR": "Cornio",
+        "nameEN": "Hornsby",
+        "catchPhrase": "euh",
+        "imageUrl": "cornio.png",
+        "birthday": {
+            "day": "20",
+            "month": 3
+        },
+        "species": "Rhinocéros",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Vert", "Marron"],
+        "clothes": ["Simple"],
+        "quote": "Mieux vaut être un rhino qu'en avoir une."
+    },
+    {
+        "nameFR": "Crabot",
+        "nameEN": "Ribbot",
+        "catchPhrase": "croac",
+        "imageUrl": "crabot.png",
+        "birthday": {
+            "day": "13",
+            "month": 2
+        },
+        "species": "Grenouille",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "L'inactivité est le meilleur moyen de voir ses muscles rouiller."
+    },
+    {
+        "nameFR": "Crakos",
+        "nameEN": "Wart Jr.",
+        "catchPhrase": "croa-croa",
+        "imageUrl": "crakos.png",
+        "birthday": {
+            "day": "21",
+            "month": 8
+        },
+        "species": "Grenouille",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Simple"],
+        "quote": "Je dois vraiment être lucide pour voir que tout le monde est fou."
+    },
+    {
+        "nameFR": "Crocket",
+        "nameEN": "Biskit",
+        "catchPhrase": "clair",
+        "imageUrl": "crocket.png",
+        "birthday": {
+            "day": "13",
+            "month": 5
+        },
+        "species": "Chien",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Mauve", "Multicolore"],
+        "clothes": ["Simple", "Somptueux"],
+        "quote": "Waouh..."
+    },
+    {
+        "nameFR": "Croko",
+        "nameEN": "Boots",
+        "catchPhrase": "mariolle",
+        "imageUrl": "croko.png",
+        "birthday": {
+            "day": "7",
+            "month": 8
+        },
+        "species": "Crocodile",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Mauve"],
+        "clothes": ["Sportif", "Somptueux"],
+        "quote": "Que le plus musclé gagne."
+    },
+    {
+        "nameFR": "Cube",
+        "nameEN": "Cube",
+        "catchPhrase": "cococopain",
+        "imageUrl": "cube.png",
+        "birthday": {
+            "day": "29",
+            "month": 1
+        },
+        "species": "Pingouin",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Multicolore"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Cool"
+    },
+    {
+        "nameFR": "Curt",
+        "nameEN": "Curt",
+        "catchPhrase": "bouboule",
+        "imageUrl": "curt.png",
+        "birthday": {
+            "day": "1",
+            "month": 7
+        },
+        "species": "Ours",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Cool"],
+        "quote": "Je t'ai à l'oeil"
+    },
+    {
+        "nameFR": "Cyrano",
+        "nameEN": "Cyrano",
+        "catchPhrase": "ATCHOUM",
+        "imageUrl": "cyrano.png",
+        "birthday": {
+            "day": "9",
+            "month": 3
+        },
+        "species": "Tapir",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Jaune", "Beige"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Ah si tu étais là"
+    },
+    {
+        "nameFR": "Dalma",
+        "nameEN": "Portia",
+        "catchPhrase": "brute",
+        "imageUrl": "dalma.png",
+        "birthday": {
+            "day": "25",
+            "month": 10
+        },
+        "species": "Chien",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Noir"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Les pois c'est indémodable"
+    },
+    {
+        "nameFR": "Damia",
+        "nameEN": "Sally",
+        "catchPhrase": "tac",
+        "imageUrl": "damia.png",
+        "birthday": {
+            "day": "19",
+            "month": 6
+        },
+        "species": "Écureuil",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Blanc", "Beige"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Grand chêne ne veut pas dire gros gland."
+    },
+    {
+        "nameFR": "Daniel",
+        "nameEN": "Buck",
+        "catchPhrase": "taty",
+        "imageUrl": "daniel.png",
+        "birthday": {
+            "day": "4",
+            "month": 4
+        },
+        "species": "Cheval",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Gris", "Marron"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Ne perds jamais des yeux l'objectif sauf si tu l'as déjà dépassé."
+    },
+    {
+        "nameFR": "Darius",
+        "nameEN": "Sparro",
+        "catchPhrase": "piaaaaf",
+        "imageUrl": "darius.png",
+        "birthday": {
+            "day": "20",
+            "month": 11
+        },
+        "species": "Oiseau",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Vert", "Gris"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "L'habit fait le moineau."
+    },
+    {
+        "nameFR": "Déborah",
+        "nameEN": "Gloria",
+        "catchPhrase": "kwakos",
+        "imageUrl": "deborah.png",
+        "birthday": {
+            "day": "12",
+            "month": 8
+        },
+        "species": "Canard",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Ce que je préfère dans la musique ce sont les couacs."
+    },
+    {
+        "nameFR": "Didi",
+        "nameEN": "Diana",
+        "catchPhrase": "bichouchou",
+        "imageUrl": "didi.png",
+        "birthday": {
+            "day": "4",
+            "month": 1
+        },
+        "species": "Cerf",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Mauve", "Rose"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "A qui sont ces yeux de biche ?  moi"
+    },
+    {
+        "nameFR": "Dimitri",
+        "nameEN": "Benedict",
+        "catchPhrase": "oh oh",
+        "imageUrl": "dimitri.png",
+        "birthday": {
+            "day": "10",
+            "month": 10
+        },
+        "species": "Poule",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Simple"],
+        "quote": "J'suis comme un coq en pâte..."
+    },
+    {
+        "nameFR": "Doc",
+        "nameEN": "Doc",
+        "catchPhrase": "morbleu",
+        "imageUrl": "doc.png",
+        "birthday": {
+            "day": "16",
+            "month": 3
+        },
+        "species": "Lapin",
+        "personality": "Paresseux 2",
+        "interest": "Education",
+        "colors": ["Gris", "Beige"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "J'aime bien les carottes mais je préfère le chocolat."
+    },
+    {
+        "nameFR": "Dolph",
+        "nameEN": "Leonardo",
+        "catchPhrase": "rebelote",
+        "imageUrl": "dolph.png",
+        "birthday": {
+            "day": "15",
+            "month": 5
+        },
+        "species": "Tigre",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Bleu"],
+        "clothes": ["Somptueux", "Sportif"],
+        "quote": "Une barre énergétique par jour c'est l'assurance d'une forme sans détour."
+    },
+    {
+        "nameFR": "Dora",
+        "nameEN": "Dora",
+        "catchPhrase": "tatouille",
+        "imageUrl": "dora.png",
+        "birthday": {
+            "day": "18",
+            "month": 2
+        },
+        "species": "Souris",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Maigre repas  bon ça va. Impasse sur le fromage dommage. Mais pas de dessert quel enfer"
+    },
+    {
+        "nameFR": "Dorian",
+        "nameEN": "Clyde",
+        "catchPhrase": "mouh-ouh",
+        "imageUrl": "dorian.png",
+        "birthday": {
+            "day": "1",
+            "month": 5
+        },
+        "species": "Cheval",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Vert", "Blanc"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "On dit que je suis bête à manger du foin... C'est pas faux."
+    },
+    {
+        "nameFR": "Dorothée",
+        "nameEN": "Dotty",
+        "catchPhrase": "lapinou",
+        "imageUrl": "dorothee.png",
+        "birthday": {
+            "day": "14",
+            "month": 3
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "On est carrément sur la même longueur d'onde"
+    },
+    {
+        "nameFR": "Drago",
+        "nameEN": "Drago",
+        "catchPhrase": "ducroc",
+        "imageUrl": "drago.png",
+        "birthday": {
+            "day": "12",
+            "month": 2
+        },
+        "species": "Crocodile",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Orange", "Rouge"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Quoi de mieux que lézarder au soleil ?"
+    },
+    {
+        "nameFR": "Eddie",
+        "nameEN": "Murphy",
+        "catchPhrase": "canaille",
+        "imageUrl": "eddie.png",
+        "birthday": {
+            "day": "29",
+            "month": 12
+        },
+        "species": "Ourson",
+        "personality": "Versatile 1",
+        "interest": "Education",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Plus t'as d'argent plus t'as d'amis."
+    },
+    {
+        "nameFR": "Édouard",
+        "nameEN": "Ed",
+        "catchPhrase": "tagada",
+        "imageUrl": "edouard.png",
+        "birthday": {
+            "day": "16",
+            "month": 9
+        },
+        "species": "Cheval",
+        "personality": "Chic 2",
+        "interest": "Nature",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Une patte fracturée n'est pas une excuse."
+    },
+    {
+        "nameFR": "Électro",
+        "nameEN": "Static",
+        "catchPhrase": "krzzt",
+        "imageUrl": "electro.png",
+        "birthday": {
+            "day": "9",
+            "month": 7
+        },
+        "species": "Écureuil",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Noir", "Jaune"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Une noisette pourrie c'est mieux que pas de noisette du tout."
+    },
+    {
+        "nameFR": "Élise",
+        "nameEN": "Elise",
+        "catchPhrase": "steup",
+        "imageUrl": "elise.png",
+        "birthday": {
+            "day": "21",
+            "month": 3
+        },
+        "species": "Singe",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Rouge"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Quand on est grande on ne fait plus le singe. Enfin moins."
+    },
+    {
+        "nameFR": "Ella",
+        "nameEN": "Ellie",
+        "catchPhrase": "sacrelotte",
+        "imageUrl": "ella.png",
+        "birthday": {
+            "day": "12",
+            "month": 5
+        },
+        "species": "Éléphant",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Gris", "Rose"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Qui n'a pas connu la tristesse ne peut savourer la joie."
+    },
+    {
+        "nameFR": "Éloïse",
+        "nameEN": "Eloise",
+        "catchPhrase": "tooouut",
+        "imageUrl": "eloise.png",
+        "birthday": {
+            "day": "8",
+            "month": 12
+        },
+        "species": "Éléphant",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Orange"],
+        "clothes": ["Simple", "Élégant"],
+        "quote": "Je ne me trompe jamais"
+    },
+    {
+        "nameFR": "Elvis",
+        "nameEN": "Elvis",
+        "catchPhrase": "bébé",
+        "imageUrl": "elvis.png",
+        "birthday": {
+            "day": "23",
+            "month": 7
+        },
+        "species": "Lion",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Rouge", "Noir"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Le roi des animaux."
+    },
+    {
+        "nameFR": "Émilien",
+        "nameEN": "Tex",
+        "catchPhrase": "gla gla",
+        "imageUrl": "emilien.png",
+        "birthday": {
+            "day": "6",
+            "month": 10
+        },
+        "species": "Pingouin",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Si jamais tu glisses fais-le avec classe"
+    },
+    {
+        "nameFR": "Emma",
+        "nameEN": "Flurry",
+        "catchPhrase": "abajoujou",
+        "imageUrl": "emma.png",
+        "birthday": {
+            "day": "30",
+            "month": 1
+        },
+        "species": "Hamster",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Rouge", "Rose"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "Ras les bajoues des rabat-joie"
+    },
+    {
+        "nameFR": "Enzo",
+        "nameEN": "Keaton",
+        "catchPhrase": "royaaaal",
+        "imageUrl": "enzo.png",
+        "birthday": {
+            "day": "1",
+            "month": 6
+        },
+        "species": "Aigle",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "Tel moi tel toi."
+    },
+    {
+        "nameFR": "Épicure",
+        "nameEN": "Cole",
+        "catchPhrase": "chaaauuud",
+        "imageUrl": "epicure.png",
+        "birthday": {
+            "day": "10",
+            "month": 8
+        },
+        "species": "Lapin",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Orange", "Multicolore"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Il faut que je me pose un instant..."
+    },
+    {
+        "nameFR": "Esther",
+        "nameEN": "Apple",
+        "catchPhrase": "bibille",
+        "imageUrl": "esther.png",
+        "birthday": {
+            "day": "24",
+            "month": 9
+        },
+        "species": "Hamster",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Rouge"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "J'ai mangé ma portion de fruits  raisins secs enrobés de chocolat hi hi"
+    },
+    {
+        "nameFR": "Ethan",
+        "nameEN": "Boomer",
+        "catchPhrase": "boudiou",
+        "imageUrl": "ethan.png",
+        "birthday": {
+            "day": "7",
+            "month": 2
+        },
+        "species": "Pingouin",
+        "personality": "Paresseux 2",
+        "interest": "Sport",
+        "colors": ["Marron", "Beige"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Tranquilou"
+    },
+    {
+        "nameFR": "Eustache",
+        "nameEN": "Beardo",
+        "catchPhrase": "poilodos",
+        "imageUrl": "eustache.png",
+        "birthday": {
+            "day": "27",
+            "month": 9
+        },
+        "species": "Ours",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Marron", "Bleu"],
+        "clothes": ["Élégant"],
+        "quote": "La perfection n'est pas de ce monde ? La bonne blague"
+    },
+    {
+        "nameFR": "Eva",
+        "nameEN": "Ava",
+        "catchPhrase": "cô-cômment",
+        "imageUrl": "eva.png",
+        "birthday": {
+            "day": "28",
+            "month": 4
+        },
+        "species": "Poule",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Rouge", "Gris"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "Tôt couché tôt levé  l'avenir appartient à ceux qui méprisent la panne d'oreiller"
+    },
+    {
+        "nameFR": "Fabien",
+        "nameEN": "Raddle",
+        "catchPhrase": "kroah",
+        "imageUrl": "fabien.png",
+        "birthday": {
+            "day": "6",
+            "month": 6
+        },
+        "species": "Grenouille",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Blanc", "Gris"],
+        "clothes": ["Simple", "Élégant"],
+        "quote": "La santé à satiété la maladie au cagibi"
+    },
+    {
+        "nameFR": "Fanny",
+        "nameEN": "Tia",
+        "catchPhrase": "énoooorme",
+        "imageUrl": "fanny.png",
+        "birthday": {
+            "day": "18",
+            "month": 11
+        },
+        "species": "Éléphant",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Un thé noir un bon bouquin et on n'a plus besoin de rien"
+    },
+    {
+        "nameFR": "Faust",
+        "nameEN": "Avery",
+        "catchPhrase": "phélès",
+        "imageUrl": "faust.png",
+        "birthday": {
+            "day": "22",
+            "month": 2
+        },
+        "species": "Aigle",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Orange", "Marron"],
+        "clothes": ["Somptueux", "Simple"],
+        "quote": "Qui a éteint la lumière ?"
+    },
+    {
+        "nameFR": "Faustine",
+        "nameEN": "Phoebe",
+        "catchPhrase": "chanmé",
+        "imageUrl": "faustine.png",
+        "birthday": {
+            "day": "22",
+            "month": 4
+        },
+        "species": "Autruche",
+        "personality": "Grande Sœur 1",
+        "interest": "Sport",
+        "colors": ["Noir", "Rouge"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "La politique de l'autruche ? Connais pas."
+    },
+    {
+        "nameFR": "Figaro",
+        "nameEN": "Cousteau",
+        "catchPhrase": "bidule",
+        "imageUrl": "figaro.png",
+        "birthday": {
+            "day": "17",
+            "month": 12
+        },
+        "species": "Grenouille",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Vert", "Rouge"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Agis avant de réfléchir."
+    },
+    {
+        "nameFR": "Filibert",
+        "nameEN": "Filbert",
+        "catchPhrase": "gogo",
+        "imageUrl": "filibert.png",
+        "birthday": {
+            "day": "3",
+            "month": 6
+        },
+        "species": "Écureuil",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Dommage que nous n'ayons pas de noisetier dans cette ville..."
+    },
+    {
+        "nameFR": "Flèche",
+        "nameEN": "Rodeo",
+        "catchPhrase": "crac",
+        "imageUrl": "fleche.png",
+        "birthday": {
+            "day": "29",
+            "month": 10
+        },
+        "species": "Taureau",
+        "personality": "Paresseux 2",
+        "interest": "Sport",
+        "colors": ["Noir", "Rouge"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Zzzzzzzzzzzzzzzzz..."
+    },
+    {
+        "nameFR": "Friga",
+        "nameEN": "Friga",
+        "catchPhrase": "bourfff",
+        "imageUrl": "friga.png",
+        "birthday": {
+            "day": "16",
+            "month": 10
+        },
+        "species": "Pingouin",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Noir"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "J'ai toujours le teint frais."
+    },
+    {
+        "nameFR": "Gabin",
+        "nameEN": "Cranston",
+        "catchPhrase": "omelette",
+        "imageUrl": "gabin.png",
+        "birthday": {
+            "day": "23",
+            "month": 9
+        },
+        "species": "Autruche",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Beige", "Marron"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Je n'aime pas courir c'est fatigant."
+    },
+    {
+        "nameFR": "Gaby",
+        "nameEN": "Gabi",
+        "catchPhrase": "mon lièvre",
+        "imageUrl": "gaby.png",
+        "birthday": {
+            "day": "16",
+            "month": 12
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Marron", "Rouge"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Plus on est de fous plus on rit"
+    },
+    {
+        "nameFR": "Gaëlle",
+        "nameEN": "Violet",
+        "catchPhrase": "gong",
+        "imageUrl": "gaelle.png",
+        "birthday": {
+            "day": "1",
+            "month": 9
+        },
+        "species": "Gorille",
+        "personality": "Arrogante 2",
+        "interest": "Sport",
+        "colors": ["Mauve", "Rose"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "Guenon rime avec fashion  Enfin pas vraiment mais bon..."
+    },
+    {
+        "nameFR": "Gambette",
+        "nameEN": "Jambette",
+        "catchPhrase": "quoi",
+        "imageUrl": "gambette.png",
+        "birthday": {
+            "day": "27",
+            "month": 10
+        },
+        "species": "Grenouille",
+        "personality": "Normale 2",
+        "interest": "Mode",
+        "colors": ["Marron"],
+        "clothes": ["Cool"],
+        "quote": "Faire la tête c'est fatigant alors souris tu vivras longtemps"
+    },
+    {
+        "nameFR": "Garance",
+        "nameEN": "Celia",
+        "catchPhrase": "bebec",
+        "imageUrl": "garance.png",
+        "birthday": {
+            "day": "25",
+            "month": 3
+        },
+        "species": "Aigle",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Rose", "Vert"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "1 000 bonnes intentions ne valent pas une bonne action."
+    },
+    {
+        "nameFR": "Gary",
+        "nameEN": "Kyle",
+        "catchPhrase": "garooouuu",
+        "imageUrl": "gary.png",
+        "birthday": {
+            "day": "6",
+            "month": 12
+        },
+        "species": "Loup",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "Si tu ne sais pas penser par toi-même utilise des devises."
+    },
+    {
+        "nameFR": "Gaston",
+        "nameEN": "Gaston",
+        "catchPhrase": "cahuète",
+        "imageUrl": "gaston.png",
+        "birthday": {
+            "day": "28",
+            "month": 10
+        },
+        "species": "Lapin",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Marron", "Orange"],
+        "clothes": ["Somptueux", "Simple"],
+        "quote": "J'essaie d'imposer un nouveau look pour les oreilles."
+    },
+    {
+        "nameFR": "George",
+        "nameEN": "Walker",
+        "catchPhrase": "ouh",
+        "imageUrl": "george.png",
+        "birthday": {
+            "day": "10",
+            "month": 6
+        },
+        "species": "Chien",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Orange", "Rouge"],
+        "clothes": ["Simple"],
+        "quote": "Il faut que j'aille me promener..."
+    },
+    {
+        "nameFR": "Gérard",
+        "nameEN": "Jay",
+        "catchPhrase": "maaaaaais",
+        "imageUrl": "gerard.png",
+        "birthday": {
+            "day": "17",
+            "month": 7
+        },
+        "species": "Oiseau",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Sportif"],
+        "quote": "L'hésitation est mère de la déception."
+    },
+    {
+        "nameFR": "Gertrude",
+        "nameEN": "Rocket",
+        "catchPhrase": "patouche",
+        "imageUrl": "gertrude.png",
+        "birthday": {
+            "day": "14",
+            "month": 4
+        },
+        "species": "Gorille",
+        "personality": "Grande Sœur 2",
+        "interest": "Sport",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Si je pense que j'ai raison c'est que ça doit être vrai."
+    },
+    {
+        "nameFR": "Gilbert",
+        "nameEN": "Jitters",
+        "catchPhrase": "bouerk",
+        "imageUrl": "gilbert.png",
+        "birthday": {
+            "day": "2",
+            "month": 2
+        },
+        "species": "Oiseau",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Sportif"],
+        "quote": "Si t'es le seul dans ton équipe tu seras toujours le capitaine."
+    },
+    {
+        "nameFR": "Gladys",
+        "nameEN": "Gladys",
+        "catchPhrase": "codêt",
+        "imageUrl": "gladys.png",
+        "birthday": {
+            "day": "15",
+            "month": 1
+        },
+        "species": "Autruche",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Vert", "Rose"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "Sourire ça ne coûte rien. Alors que les larmes sont toujours trop salées"
+    },
+    {
+        "nameFR": "Gloria",
+        "nameEN": "Gigi",
+        "catchPhrase": "crôazou",
+        "imageUrl": "gloria.png",
+        "birthday": {
+            "day": "11",
+            "month": 8
+        },
+        "species": "Grenouille",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Il paraît qu'il faut se coucher tôt pour avoir une belle peau. Mais tu me verrais au saut du lit..."
+    },
+    {
+        "nameFR": "Gogo",
+        "nameEN": "Peewee",
+        "catchPhrase": "gadget",
+        "imageUrl": "gogo.png",
+        "birthday": {
+            "day": "11",
+            "month": 9
+        },
+        "species": "Gorille",
+        "personality": "Versatile 2",
+        "interest": "Sport",
+        "colors": ["Orange", "Bleu"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "JE SUIS DERRIRE TOI"
+    },
+    {
+        "nameFR": "Gonzo",
+        "nameEN": "Gonzo",
+        "catchPhrase": "galopin",
+        "imageUrl": "gonzo.png",
+        "birthday": {
+            "day": "13",
+            "month": 10
+        },
+        "species": "Koala",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Vert"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Cessez de me prendre pour une peluche."
+    },
+    {
+        "nameFR": "Gordon",
+        "nameEN": "Drift",
+        "catchPhrase": "braaaa",
+        "imageUrl": "gordon.png",
+        "birthday": {
+            "day": "9",
+            "month": 10
+        },
+        "species": "Grenouille",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Orange", "Rouge"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "L'argent n'a pas d'odeur. L'or en revanche..."
+    },
+    {
+        "nameFR": "Gradub",
+        "nameEN": "Pudge",
+        "catchPhrase": "louloute",
+        "imageUrl": "gradub.png",
+        "birthday": {
+            "day": "11",
+            "month": 6
+        },
+        "species": "Ourson",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Simple"],
+        "quote": "Tranquille Émile"
+    },
+    {
+        "nameFR": "Graham",
+        "nameEN": "Graham",
+        "catchPhrase": "au pif",
+        "imageUrl": "graham.png",
+        "birthday": {
+            "day": "20",
+            "month": 6
+        },
+        "species": "Hamster",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Vert", "Orange"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "La connaissance mène à tout. La classe aussi."
+    },
+    {
+        "nameFR": "Greggae",
+        "nameEN": "Frank",
+        "catchPhrase": "maaaarre",
+        "imageUrl": "greggae.png",
+        "birthday": {
+            "day": "30",
+            "month": 7
+        },
+        "species": "Aigle",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Marron", "Jaune"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "Quand tu broies du noir arrête et vois la vie en rose"
+    },
+    {
+        "nameFR": "Greta",
+        "nameEN": "Greta",
+        "catchPhrase": "téma",
+        "imageUrl": "greta.png",
+        "birthday": {
+            "day": "5",
+            "month": 9
+        },
+        "species": "Souris",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Rose", "Mauve"],
+        "clothes": ["Simple", "Élégant"],
+        "quote": "Le monde est un ring de boxe."
+    },
+    {
+        "nameFR": "Grignote",
+        "nameEN": "Hopkins",
+        "catchPhrase": "pfui",
+        "imageUrl": "grignote.png",
+        "birthday": {
+            "day": "11",
+            "month": 3
+        },
+        "species": "Lapin",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Jaune"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Un lapin malin est toujours près d'une carotte et loin d'un chasseur."
+    },
+    {
+        "nameFR": "Grisa",
+        "nameEN": "Olive",
+        "catchPhrase": "trognon",
+        "imageUrl": "grisa.png",
+        "birthday": {
+            "day": "12",
+            "month": 7
+        },
+        "species": "Ourson",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Marron", "Jaune"],
+        "clothes": ["Simple"],
+        "quote": "Les gens mielleux sont souvent les plus collants."
+    },
+    {
+        "nameFR": "Grisette",
+        "nameEN": "Mira",
+        "catchPhrase": "auch auch",
+        "imageUrl": "grisette.png",
+        "birthday": {
+            "day": "6",
+            "month": 7
+        },
+        "species": "Lapin",
+        "personality": "Grande Sœur 1",
+        "interest": "Sport",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Gare à quiconque essaierait de me carotter."
+    },
+    {
+        "nameFR": "Grizzly",
+        "nameEN": "Grizzly",
+        "catchPhrase": "canaillou",
+        "imageUrl": "grizzly.png",
+        "birthday": {
+            "day": "31",
+            "month": 7
+        },
+        "species": "Ours",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Rouge", "Noir"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Avant de critiquer il faut toujours passer le balai devant chez soi"
+    },
+    {
+        "nameFR": "Grognon",
+        "nameEN": "Gruff",
+        "catchPhrase": "hé bêêê",
+        "imageUrl": "grognon.png",
+        "birthday": {
+            "day": "29",
+            "month": 8
+        },
+        "species": "Chèvre",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Mauve", "Noir"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Ne faites pas d'omelette sans Sufs."
+    },
+    {
+        "nameFR": "Gruyère",
+        "nameEN": "Limberg",
+        "catchPhrase": "scriiich",
+        "imageUrl": "gruyere.png",
+        "birthday": {
+            "day": "17",
+            "month": 10
+        },
+        "species": "Souris",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "C'est moi ou ça sent pas bon ?"
+    },
+    {
+        "nameFR": "Guido",
+        "nameEN": "Clay",
+        "catchPhrase": "pindépice",
+        "imageUrl": "guido.png",
+        "birthday": {
+            "day": "19",
+            "month": 10
+        },
+        "species": "Hamster",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Beige", "Marron"],
+        "clothes": ["Simple", "Élégant"],
+        "quote": "Des fois j'ai l'impression de tourner en rond..."
+    },
+    {
+        "nameFR": "Gustave",
+        "nameEN": "Al",
+        "catchPhrase": "ouba-oub",
+        "imageUrl": "gustave.png",
+        "birthday": {
+            "day": "18",
+            "month": 10
+        },
+        "species": "Gorille",
+        "personality": "Paresseux 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Blanc"],
+        "clothes": ["Sportif"],
+        "quote": "J'ai une grosse envie de banane."
+    },
+    {
+        "nameFR": "Gwen",
+        "nameEN": "Gwen",
+        "catchPhrase": "h-h-h-hon",
+        "imageUrl": "gwen.png",
+        "birthday": {
+            "day": "23",
+            "month": 1
+        },
+        "species": "Pingouin",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Blanc"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Pas besoin d'être froide et distante pour avoir la classe mannequin."
+    },
+    {
+        "nameFR": "Hector",
+        "nameEN": "Del",
+        "catchPhrase": "clap",
+        "imageUrl": "hector.png",
+        "birthday": {
+            "day": "27",
+            "month": 5
+        },
+        "species": "Crocodile",
+        "personality": "Versatile 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Personne n'a compris que les larmes d'un crocodile étaient les plus sincères."
+    },
+    {
+        "nameFR": "Hélaine",
+        "nameEN": "Vesta",
+        "catchPhrase": "pupull",
+        "imageUrl": "helaine.png",
+        "birthday": {
+            "day": "16",
+            "month": 4
+        },
+        "species": "Mouton",
+        "personality": "Normale 2",
+        "interest": "Mode",
+        "colors": ["Orange", "Rouge"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Pas touche à ma laine"
+    },
+    {
+        "nameFR": "Henri",
+        "nameEN": "Henry",
+        "catchPhrase": "pustule",
+        "imageUrl": "henri.png",
+        "birthday": {
+            "day": "21",
+            "month": 9
+        },
+        "species": "Grenouille",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Un regard de braise vaut mieux qu'un long discours."
+    },
+    {
+        "nameFR": "Herbert",
+        "nameEN": "Egbert",
+        "catchPhrase": "di di dou",
+        "imageUrl": "herbert.png",
+        "birthday": {
+            "day": "14",
+            "month": 10
+        },
+        "species": "Poule",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Beige", "Marron"],
+        "clothes": ["Simple"],
+        "quote": "C'est quand je dors que mes neurones travaillent le plus."
+    },
+    {
+        "nameFR": "Hercule",
+        "nameEN": "Rory",
+        "catchPhrase": "criniou",
+        "imageUrl": "hercule.png",
+        "birthday": {
+            "day": "7",
+            "month": 8
+        },
+        "species": "Lion",
+        "personality": "Sportif 1",
+        "interest": "Art",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Toute bataille réussie commence par une stratégie bien établie."
+    },
+    {
+        "nameFR": "Hervé",
+        "nameEN": "Puck",
+        "catchPhrase": "brrrrrrrrr",
+        "imageUrl": "herve.png",
+        "birthday": {
+            "day": "21",
+            "month": 2
+        },
+        "species": "Pingouin",
+        "personality": "Paresseux 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Relax"
+    },
+    {
+        "nameFR": "Hippy",
+        "nameEN": "Bubbles",
+        "catchPhrase": "hip hop là",
+        "imageUrl": "hippy.png",
+        "birthday": {
+            "day": "18",
+            "month": 9
+        },
+        "species": "Hippopotame",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Rose"],
+        "clothes": ["Mignon", "Sportif"],
+        "quote": "Je suis bien maquillée ? Et les fringues ? a va ?"
+    },
+    {
+        "nameFR": "Irène",
+        "nameEN": "Poppy",
+        "catchPhrase": "scratchy",
+        "imageUrl": "irene.png",
+        "birthday": {
+            "day": "5",
+            "month": 8
+        },
+        "species": "Écureuil",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Il n'y a pas d'objectifs inatteignables il n'y a que des rêves déraisonnables."
+    },
+    {
+        "nameFR": "Isaac",
+        "nameEN": "Ike",
+        "catchPhrase": "pot d'miel",
+        "imageUrl": "isaac.png",
+        "birthday": {
+            "day": "16",
+            "month": 5
+        },
+        "species": "Ours",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Cool"],
+        "quote": "Plus on grimpe haut plus les choses semblent petites."
+    },
+    {
+        "nameFR": "Isabelle",
+        "nameEN": "Caroline",
+        "catchPhrase": "houlaaaa",
+        "imageUrl": "isabelle.png",
+        "birthday": {
+            "day": "15",
+            "month": 7
+        },
+        "species": "Écureuil",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Multicolore", "Blanc"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Du balai la poussière"
+    },
+    {
+        "nameFR": "Ismaël",
+        "nameEN": "Marcel",
+        "catchPhrase": "miaouf",
+        "imageUrl": "ismael.png",
+        "birthday": {
+            "day": "31",
+            "month": 12
+        },
+        "species": "Chien",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Ca sent le chien mouillé ici ou c'est moi ?"
+    },
+    {
+        "nameFR": "Jacky",
+        "nameEN": "Jacques",
+        "catchPhrase": "ploc ploc",
+        "imageUrl": "jacky.png",
+        "birthday": {
+            "day": "22",
+            "month": 6
+        },
+        "species": "Oiseau",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Vert", "Noir"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Les devises c'est complètement naze."
+    },
+    {
+        "nameFR": "Jacob",
+        "nameEN": "Jakey",
+        "catchPhrase": "asticô",
+        "imageUrl": "jacob.png",
+        "birthday": {
+            "day": "24",
+            "month": 8
+        },
+        "species": "Oiseau",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Vert", "Rouge"],
+        "clothes": ["Simple"],
+        "quote": "De grandes capacités impliquent beaucoup trop de choses à faire."
+    },
+    {
+        "nameFR": "Jamy",
+        "nameEN": "Eugene",
+        "catchPhrase": "yapaphoto",
+        "imageUrl": "jamy.png",
+        "birthday": {
+            "day": "26",
+            "month": 10
+        },
+        "species": "Koala",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Les femmes d'abord  Et moi juste après."
+    },
+    {
+        "nameFR": "Jean-Bon",
+        "nameEN": "Kevin",
+        "catchPhrase": "toutébon",
+        "imageUrl": "jean-bon.png",
+        "birthday": {
+            "day": "26",
+            "month": 4
+        },
+        "species": "Cochon",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Noir", "Rouge"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Cochon qui s'en dédit"
+    },
+    {
+        "nameFR": "Jeannot",
+        "nameEN": "Snake",
+        "catchPhrase": "mon lapin",
+        "imageUrl": "jeannot.png",
+        "birthday": {
+            "day": "3",
+            "month": 11
+        },
+        "species": "Lapin",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Noir", "Bleu"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "N'attaque jamais quelqu'un dans le dos... sauf s'il est plus fort que toi."
+    },
+    {
+        "nameFR": "Jeff",
+        "nameEN": "Tybalt",
+        "catchPhrase": "grouaaah",
+        "imageUrl": "jeff.png",
+        "birthday": {
+            "day": "19",
+            "month": 8
+        },
+        "species": "Tigre",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Si on ne donne pas tout sur la piste on ne garde que des regrets."
+    },
+    {
+        "nameFR": "Jennifer",
+        "nameEN": "Reneigh",
+        "catchPhrase": "crincrin",
+        "imageUrl": "jennifer.png",
+        "birthday": {
+            "day": "4",
+            "month": 6
+        },
+        "species": "Cheval",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Noir", "Mauve"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Sois toi-même mais donne le meilleur de toi-même."
+    },
+    {
+        "nameFR": "Jérémie",
+        "nameEN": "Jeremiah",
+        "catchPhrase": "brooap",
+        "imageUrl": "jeremie.png",
+        "birthday": {
+            "day": "8",
+            "month": 7
+        },
+        "species": "Grenouille",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Orange", "Jaune"],
+        "clothes": ["Simple"],
+        "quote": "Hmmm... Je goberais bien une petite mouche moi..."
+    },
+    {
+        "nameFR": "Jo",
+        "nameEN": "Broffina",
+        "catchPhrase": "mon Suf",
+        "imageUrl": "jo.png",
+        "birthday": {
+            "day": "24",
+            "month": 10
+        },
+        "species": "Poule",
+        "personality": "Arrogante 1",
+        "interest": "Art",
+        "colors": ["Noir", "Rouge"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Qui vole un Suf vole un Suf."
+    },
+    {
+        "nameFR": "Joachim",
+        "nameEN": "Moose",
+        "catchPhrase": "bééléé",
+        "imageUrl": "joachim.png",
+        "birthday": {
+            "day": "13",
+            "month": 9
+        },
+        "species": "Souris",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Mauve", "Rouge"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Un rat pris au piège n'hésitera pas à mordre le chat."
+    },
+    {
+        "nameFR": "Jojo",
+        "nameEN": "Hamlet",
+        "catchPhrase": "chicots",
+        "imageUrl": "jojo.png",
+        "birthday": {
+            "day": "30",
+            "month": 5
+        },
+        "species": "Hamster",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Mauve", "Bleu"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Une oreille saine est une oreille bien musclée."
+    },
+    {
+        "nameFR": "Jon",
+        "nameEN": "Lopez",
+        "catchPhrase": "jaunisse",
+        "imageUrl": "jon.png",
+        "birthday": {
+            "day": "20",
+            "month": 8
+        },
+        "species": "Cerf",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Gris"],
+        "clothes": ["Somptueux"],
+        "quote": "Qui va à la chasse perd sa place."
+    },
+    {
+        "nameFR": "Joseph",
+        "nameEN": "Joey",
+        "catchPhrase": "beeeuuuurk",
+        "imageUrl": "joseph.png",
+        "birthday": {
+            "day": "3",
+            "month": 1
+        },
+        "species": "Canard",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Simple"],
+        "quote": "Ca me cloue le bec"
+    },
+    {
+        "nameFR": "Julie",
+        "nameEN": "Julia",
+        "catchPhrase": "trutruche",
+        "imageUrl": "julie.png",
+        "birthday": {
+            "day": "31",
+            "month": 7
+        },
+        "species": "Autruche",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Mauve", "Rouge"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Vérifie deux fois puis vérifie que tu as bien vérifié. Deux fois aussi."
+    },
+    {
+        "nameFR": "Justin",
+        "nameEN": "Crackle",
+        "catchPhrase": "diantre",
+        "imageUrl": "justin.png",
+        "birthday": {
+            "day": "3",
+            "month": 9
+        },
+        "species": "Cochon",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Vert", "Multicolore"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Je mange comme un cochon c'est vrai."
+    },
+    {
+        "nameFR": "Justine",
+        "nameEN": "Flora",
+        "catchPhrase": "guiboles",
+        "imageUrl": "justine.png",
+        "birthday": {
+            "day": "9",
+            "month": 2
+        },
+        "species": "Autruche",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Rose"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "C'est au pied du mur qu'on voit le mieux le mur."
+    },
+    {
+        "nameFR": "Kabuki",
+        "nameEN": "Kabuki",
+        "catchPhrase": "mia-ouh",
+        "imageUrl": "kabuki.png",
+        "birthday": {
+            "day": "29",
+            "month": 11
+        },
+        "species": "Chat",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Mauve", "Rouge"],
+        "clothes": ["Simple"],
+        "quote": "Ce qui est sur la table sera mangé."
+    },
+    {
+        "nameFR": "Kali",
+        "nameEN": "Genji",
+        "catchPhrase": "otaku",
+        "imageUrl": "kali.png",
+        "birthday": {
+            "day": "21",
+            "month": 1
+        },
+        "species": "Lapin",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Vert", "Mauve"],
+        "clothes": ["Simple", "Élégant"],
+        "quote": "Apprends à te relever car ta volonté est plus forte que la gravité."
+    },
+    {
+        "nameFR": "Kalyptus",
+        "nameEN": "Lyman",
+        "catchPhrase": "sandwich",
+        "imageUrl": "kalyptus.png",
+        "birthday": {
+            "day": "12",
+            "month": 10
+        },
+        "species": "Koala",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "clair", "Jaune"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "C'est fatigant tout ça..."
+    },
+    {
+        "nameFR": "Kanga",
+        "nameEN": "Carrie",
+        "catchPhrase": "poupon",
+        "imageUrl": "kanga.png",
+        "birthday": {
+            "day": "5",
+            "month": 12
+        },
+        "species": "Kangourou",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Rouge", "Multicolore"],
+        "clothes": ["Mignon"],
+        "quote": "La mère pense à son enfant l'enfant pense à ses jouets."
+    },
+    {
+        "nameFR": "Karen",
+        "nameEN": "Wendy",
+        "catchPhrase": "bê-bê-bê",
+        "imageUrl": "karen.png",
+        "birthday": {
+            "day": "15",
+            "month": 8
+        },
+        "species": "Mouton",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rouge", "Vert"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Les paillettes ça va avec tout"
+    },
+    {
+        "nameFR": "Kat",
+        "nameEN": "Katt",
+        "catchPhrase": "miaouille",
+        "imageUrl": "kat.png",
+        "birthday": {
+            "day": "27",
+            "month": 4
+        },
+        "species": "Chat",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Mauve", "Noir"],
+        "clothes": ["Cool"],
+        "quote": "Les chiens font pas des chats ni les ours d'ailleurs"
+    },
+    {
+        "nameFR": "Ken",
+        "nameEN": "Ken",
+        "catchPhrase": "pôt pôt",
+        "imageUrl": "ken.png",
+        "birthday": {
+            "day": "23",
+            "month": 12
+        },
+        "species": "Poule",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Mauve", "Bleu"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Que serait un poulet sans sa poulette ?"
+    },
+    {
+        "nameFR": "Ketchup",
+        "nameEN": "Ketchup",
+        "catchPhrase": "plouf",
+        "imageUrl": "ketchup.png",
+        "birthday": {
+            "day": "27",
+            "month": 7
+        },
+        "species": "Canard",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "clair", "Blanc"],
+        "clothes": ["Mignon"],
+        "quote": "Pour garder la santé mange chaque matin du pain rassis trempé dans de l'eau croupie."
+    },
+    {
+        "nameFR": "Kiki",
+        "nameEN": "Kiki",
+        "catchPhrase": "chti minou",
+        "imageUrl": "kiki.png",
+        "birthday": {
+            "day": "8",
+            "month": 10
+        },
+        "species": "Chat",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Marron", "Beige"],
+        "clothes": ["Simple"],
+        "quote": "Qui ne tente rien n'a rien."
+    },
+    {
+        "nameFR": "Kitty",
+        "nameEN": "Kitty",
+        "catchPhrase": "miaaaouh",
+        "imageUrl": "kitty.png",
+        "birthday": {
+            "day": "15",
+            "month": 2
+        },
+        "species": "Chat",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Gris"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "On n'est jamais mieux servi que par soi-même"
+    },
+    {
+        "nameFR": "Klaus",
+        "nameEN": "Klaus",
+        "catchPhrase": "achtung",
+        "imageUrl": "klaus.png",
+        "birthday": {
+            "day": "31",
+            "month": 3
+        },
+        "species": "Ours",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Gris", "Blanc"],
+        "clothes": ["Simple"],
+        "quote": "Qui crée la mode crée le monde."
+    },
+    {
+        "nameFR": "Koaline",
+        "nameEN": "Sydney",
+        "catchPhrase": "mon trésor",
+        "imageUrl": "koaline.png",
+        "birthday": {
+            "day": "21",
+            "month": 6
+        },
+        "species": "Koala",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Beige", "Jaune"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Étudier c'est grandir."
+    },
+    {
+        "nameFR": "Koko",
+        "nameEN": "Ozzie",
+        "catchPhrase": "koa là là",
+        "imageUrl": "koko.png",
+        "birthday": {
+            "day": "7",
+            "month": 5
+        },
+        "species": "Koala",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je me ferais bien un petit sandwich à l'eucalyptus..."
+    },
+    {
+        "nameFR": "Kolala",
+        "nameEN": "Canberra",
+        "catchPhrase": "zyva",
+        "imageUrl": "kolala.png",
+        "birthday": {
+            "day": "14",
+            "month": 5
+        },
+        "species": "Koala",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Vert", "Bleu", "clair"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Il est jamais trop tard pour prendre un nouveau départ... sauf quand il est vraiment trop tard."
+    },
+    {
+        "nameFR": "Kristine",
+        "nameEN": "Chrissy",
+        "catchPhrase": "hop",
+        "imageUrl": "kristine.png",
+        "birthday": {
+            "day": "28",
+            "month": 8
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Mignon"],
+        "quote": "Non mais quelle cruche je te jure"
+    },
+    {
+        "nameFR": "Laflèche",
+        "nameEN": "Sprocket",
+        "catchPhrase": "pik pik",
+        "imageUrl": "lafleche.png",
+        "birthday": {
+            "day": "1",
+            "month": 12
+        },
+        "species": "Autruche",
+        "personality": "Sportif 1",
+        "interest": "Art",
+        "colors": ["Orange", "Vert"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Bats le fer quand il est chaud même s'il n'a rien fait de mal."
+    },
+    {
+        "nameFR": "Laura",
+        "nameEN": "Judy",
+        "catchPhrase": "oh là là",
+        "imageUrl": "laura.png",
+        "birthday": {
+            "day": "10",
+            "month": 3
+        },
+        "species": "Ourson",
+        "personality": "Arrogante 1",
+        "interest": "Art",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Si ça ne va pas danse et tu oublieras"
+    },
+    {
+        "nameFR": "Laurie",
+        "nameEN": "Sprinkle",
+        "catchPhrase": "mon glaçon",
+        "imageUrl": "laurie.png",
+        "birthday": {
+            "day": "20",
+            "month": 2
+        },
+        "species": "Pingouin",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "clair", "Blanc"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Le froid c'est hyper bon pour le teint"
+    },
+    {
+        "nameFR": "Léa",
+        "nameEN": "Maple",
+        "catchPhrase": "chouchou",
+        "imageUrl": "lea.png",
+        "birthday": {
+            "day": "15",
+            "month": 6
+        },
+        "species": "Ourson",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Beige", "Vert"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Une clochette est une clochette."
+    },
+    {
+        "nameFR": "Leandro",
+        "nameEN": "Leopold",
+        "catchPhrase": "minus",
+        "imageUrl": "leandro.png",
+        "birthday": {
+            "day": "14",
+            "month": 8
+        },
+        "species": "Lion",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Mauve", "Vert"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "On ne court jamais assez vite sauf quand on court à sa perte."
+    },
+    {
+        "nameFR": "Léo",
+        "nameEN": "Rex",
+        "catchPhrase": "lionceau",
+        "imageUrl": "leo.png",
+        "birthday": {
+            "day": "24",
+            "month": 7
+        },
+        "species": "Lion",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "La semaine aux quatre jeudis c'est fini. La semaine aux sept dimanches ça commence"
+    },
+    {
+        "nameFR": "Léonard",
+        "nameEN": "Bud",
+        "catchPhrase": "m'pote",
+        "imageUrl": "leonard.png",
+        "birthday": {
+            "day": "8",
+            "month": 8
+        },
+        "species": "Lion",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Sans transpirer on ne peut briller."
+    },
+    {
+        "nameFR": "Léopold",
+        "nameEN": "Lionel",
+        "catchPhrase": "papatte",
+        "imageUrl": "leopold.png",
+        "birthday": {
+            "day": "29",
+            "month": 7
+        },
+        "species": "Lion",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Vert", "Gris"],
+        "clothes": ["Sportif", "Somptueux"],
+        "quote": "Un roi sans divertissement est un lion plein de misères."
+    },
+    {
+        "nameFR": "Lico",
+        "nameEN": "Julian",
+        "catchPhrase": "trottoune",
+        "imageUrl": "lico.png",
+        "birthday": {
+            "day": "15",
+            "month": 3
+        },
+        "species": "Cheval",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Mauve", "Bleu"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "Touche ma corne ça porte bonheur."
+    },
+    {
+        "nameFR": "Lili",
+        "nameEN": "Tammi",
+        "catchPhrase": "booof",
+        "imageUrl": "lili.png",
+        "birthday": {
+            "day": "2",
+            "month": 4
+        },
+        "species": "Singe",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Vert"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "Nan sérieux ? Trop fort"
+    },
+    {
+        "nameFR": "Linette",
+        "nameEN": "Lolly",
+        "catchPhrase": "ron-ron",
+        "imageUrl": "linette.png",
+        "birthday": {
+            "day": "27",
+            "month": 3
+        },
+        "species": "Chat",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Gris", "Rose"],
+        "clothes": ["Simple"],
+        "quote": "Malade qui rit à moitié guéri."
+    },
+    {
+        "nameFR": "Lobo",
+        "nameEN": "Lobo",
+        "catchPhrase": "ah rooooo",
+        "imageUrl": "lobo.png",
+        "birthday": {
+            "day": "5",
+            "month": 11
+        },
+        "species": "Loup",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Noir", "Beige"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Si c'est pas ce que tu crois c'est que ça doit être autre chose."
+    },
+    {
+        "nameFR": "Lola",
+        "nameEN": "Nibbles",
+        "catchPhrase": "nunuche",
+        "imageUrl": "lola.png",
+        "birthday": {
+            "day": "19",
+            "month": 7
+        },
+        "species": "Écureuil",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "On dirait pas mais je suis maquillée là"
+    },
+    {
+        "nameFR": "Loran",
+        "nameEN": "Hans",
+        "catchPhrase": "tût tût",
+        "imageUrl": "loran.png",
+        "birthday": {
+            "day": "5",
+            "month": 12
+        },
+        "species": "Gorille",
+        "personality": "Chic 1",
+        "interest": "Sport",
+        "colors": ["Gris", "Bleu"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "L'amour est aveugle ou alors c'est moi qui ai besoin de lunettes."
+    },
+    {
+        "nameFR": "Louis",
+        "nameEN": "Louie",
+        "catchPhrase": "tonneau",
+        "imageUrl": "louis.png",
+        "birthday": {
+            "day": "26",
+            "month": 3
+        },
+        "species": "Gorille",
+        "personality": "Sportif 1",
+        "interest": "Sport",
+        "colors": ["Gris", "Rouge"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Tout est dans les muscles."
+    },
+    {
+        "nameFR": "Loupiot",
+        "nameEN": "Dobie",
+        "catchPhrase": "peuchère",
+        "imageUrl": "loupiot.png",
+        "birthday": {
+            "day": "17",
+            "month": 2
+        },
+        "species": "Loup",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Marron", "Beige"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "La faim justifie les moyens."
+    },
+    {
+        "nameFR": "Lourant",
+        "nameEN": "Monty",
+        "catchPhrase": "l'outang",
+        "imageUrl": "lourant.png",
+        "birthday": {
+            "day": "7",
+            "month": 12
+        },
+        "species": "Singe",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Jaune", "Gris"],
+        "clothes": ["Cool"],
+        "quote": "Tu veux ma photo ?"
+    },
+    {
+        "nameFR": "Lucie",
+        "nameEN": "Lucy",
+        "catchPhrase": "groingroin",
+        "imageUrl": "lucie.png",
+        "birthday": {
+            "day": "2",
+            "month": 6
+        },
+        "species": "Cochon",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Pour qui a bon caractère le meilleur est toujours à venir... Vivement demain"
+    },
+    {
+        "nameFR": "Luna",
+        "nameEN": "Shari",
+        "catchPhrase": "tavu",
+        "imageUrl": "luna.png",
+        "birthday": {
+            "day": "10",
+            "month": 4
+        },
+        "species": "Singe",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Bleu", "clair", "Jaune"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "Rien ne sert de partir à point quand on peut courir vite."
+    },
+    {
+        "nameFR": "Luppa",
+        "nameEN": "Freya",
+        "catchPhrase": "mon loulou",
+        "imageUrl": "luppa.png",
+        "birthday": {
+            "day": "14",
+            "month": 12
+        },
+        "species": "Loup",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Bleu"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Je trouve les enfants mignons à croquer  Ce n'est pas pour rien que la louve est symbole de maternité."
+    },
+    {
+        "nameFR": "Lydie",
+        "nameEN": "Pancetti",
+        "catchPhrase": "sabots",
+        "imageUrl": "lydie.png",
+        "birthday": {
+            "day": "14",
+            "month": 11
+        },
+        "species": "Cochon",
+        "personality": "Arrogante 1",
+        "interest": "Art",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Ne fais pas à autrui ce que tu ne voudrais pas qu'une autre truie te fasse."
+    },
+    {
+        "nameFR": "Madsi",
+        "nameEN": "Sylvia",
+        "catchPhrase": "d'la balle",
+        "imageUrl": "madsi.png",
+        "birthday": {
+            "day": "3",
+            "month": 5
+        },
+        "species": "Kangourou",
+        "personality": "Grande Sœur 2",
+        "interest": "Art",
+        "colors": ["Jaune", "Vert"],
+        "clothes": ["Somptueux", "Simple"],
+        "quote": "Loin des yeux loin tout court."
+    },
+    {
+        "nameFR": "Maëlle",
+        "nameEN": "Maelle",
+        "catchPhrase": "canardou",
+        "imageUrl": "maelle.png",
+        "birthday": {
+            "day": "8",
+            "month": 4
+        },
+        "species": "Canard",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Ma couleur préférée c'est l'orange. Et toi ?"
+    },
+    {
+        "nameFR": "Maëllis",
+        "nameEN": "Miranda",
+        "catchPhrase": "couac",
+        "imageUrl": "maellis.png",
+        "birthday": {
+            "day": "23",
+            "month": 4
+        },
+        "species": "Canard",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Suis mes conseils si tu ne veux pas finir le bec dans l'eau."
+    },
+    {
+        "nameFR": "Magogo",
+        "nameEN": "Deli",
+        "catchPhrase": "liaaaane",
+        "imageUrl": "magogo.png",
+        "birthday": {
+            "day": "24",
+            "month": 5
+        },
+        "species": "Singe",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Mauve", "Marron"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "C'est à un jeune singe qu'on apprend à faire des grimaces."
+    },
+    {
+        "nameFR": "Maguy",
+        "nameEN": "Margie",
+        "catchPhrase": "toutie",
+        "imageUrl": "maguy.png",
+        "birthday": {
+            "day": "28",
+            "month": 1
+        },
+        "species": "Éléphant",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "Avoir la tête dans les nuages tout en gardant les pieds sur terre c'est le privilège du sage"
+    },
+    {
+        "nameFR": "Maï",
+        "nameEN": "Willow",
+        "catchPhrase": "tourni",
+        "imageUrl": "mai.png",
+        "birthday": {
+            "day": "26",
+            "month": 11
+        },
+        "species": "Mouton",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Blanc", "Rose"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Ne sois pas un mouton. Suis mon conseil."
+    },
+    {
+        "nameFR": "Maiko",
+        "nameEN": "Naomi",
+        "catchPhrase": "pistouille",
+        "imageUrl": "maiko.png",
+        "birthday": {
+            "day": "28",
+            "month": 2
+        },
+        "species": "Vache",
+        "personality": "Arrogante 1",
+        "interest": "Mode",
+        "colors": ["Multicolore", "Mauve"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "J'adooore regarder passer les trains..."
+    },
+    {
+        "nameFR": "Mallory",
+        "nameEN": "Mallary",
+        "catchPhrase": "coinpff",
+        "imageUrl": "mallory.png",
+        "birthday": {
+            "day": "17",
+            "month": 11
+        },
+        "species": "Canard",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "La couleur pourpre symbolise la majesté."
+    },
+    {
+        "nameFR": "Manfred",
+        "nameEN": "Sterling",
+        "catchPhrase": "kaputt",
+        "imageUrl": "manfred.png",
+        "birthday": {
+            "day": "11",
+            "month": 12
+        },
+        "species": "Aigle",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Prudence est mère de sûreté."
+    },
+    {
+        "nameFR": "Manu",
+        "nameEN": "Barold",
+        "catchPhrase": "dodododu",
+        "imageUrl": "manu.png",
+        "birthday": {
+            "day": "2",
+            "month": 3
+        },
+        "species": "Ourson",
+        "personality": "Paresseux 1",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Noir"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Cool Raoul"
+    },
+    {
+        "nameFR": "Marcel",
+        "nameEN": "Rod",
+        "catchPhrase": "tip top",
+        "imageUrl": "marcel.png",
+        "birthday": {
+            "day": "14",
+            "month": 8
+        },
+        "species": "Souris",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Bleu", "clair"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Il n'y a pas d'adversaire trop fort il n'y a que des entraînements trop mous."
+    },
+    {
+        "nameFR": "Maréchal",
+        "nameEN": "Admiral",
+        "catchPhrase": "cornichon",
+        "imageUrl": "marechal.png",
+        "birthday": {
+            "day": "27",
+            "month": 1
+        },
+        "species": "Oiseau",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Bleu"],
+        "clothes": ["Cool"],
+        "quote": "Les mollassons méritent de servir de paillasson."
+    },
+    {
+        "nameFR": "Margaux",
+        "nameEN": "Patty",
+        "catchPhrase": "allez",
+        "imageUrl": "margaux.png",
+        "birthday": {
+            "day": "10",
+            "month": 5
+        },
+        "species": "Vache",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Orange", "Rouge"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Il te va vachement bien ce petit haut"
+    },
+    {
+        "nameFR": "Marilou",
+        "nameEN": "Skye",
+        "catchPhrase": "mumuseau",
+        "imageUrl": "marilou.png",
+        "birthday": {
+            "day": "24",
+            "month": 3
+        },
+        "species": "Loup",
+        "personality": "Normale 1",
+        "interest": "Art",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Mignon"],
+        "quote": "C'est l'amour qui dirige la terre c'est l'amour qui dirige le monde."
+    },
+    {
+        "nameFR": "Marina",
+        "nameEN": "Marina",
+        "catchPhrase": "beurp",
+        "imageUrl": "marina.png",
+        "birthday": {
+            "day": "26",
+            "month": 6
+        },
+        "species": "Poulpe",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Mignon"],
+        "quote": "Ce n'est pas parce que  tu n'as rien à dire qu'il faut fermer ta bouche."
+    },
+    {
+        "nameFR": "Marine",
+        "nameEN": "Tangy",
+        "catchPhrase": "roooaR",
+        "imageUrl": "marine.png",
+        "birthday": {
+            "day": "17",
+            "month": 6
+        },
+        "species": "Chat",
+        "personality": "Vive 2",
+        "interest": "Art",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Cherchez pas c'est moi la meilleure"
+    },
+    {
+        "nameFR": "Marito",
+        "nameEN": "Rowan",
+        "catchPhrase": "banane",
+        "imageUrl": "marito.png",
+        "birthday": {
+            "day": "26",
+            "month": 8
+        },
+        "species": "Tigre",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "clair", "Gris"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "La défaite est amère comme un café servi à l'eau de mer."
+    },
+    {
+        "nameFR": "Marjorie",
+        "nameEN": "Maggie",
+        "catchPhrase": "grouik",
+        "imageUrl": "marjorie.png",
+        "birthday": {
+            "day": "3",
+            "month": 9
+        },
+        "species": "Cochon",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "L'occasion fait le lardon."
+    },
+    {
+        "nameFR": "Martin",
+        "nameEN": "Elmer",
+        "catchPhrase": "mouuuuiii",
+        "imageUrl": "martin.png",
+        "birthday": {
+            "day": "5",
+            "month": 10
+        },
+        "species": "Cheval",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Je retourne au lit et au trot"
+    },
+    {
+        "nameFR": "Marvin",
+        "nameEN": "Zucker",
+        "catchPhrase": "sploush",
+        "imageUrl": "marvin.png",
+        "birthday": {
+            "day": "8",
+            "month": 3
+        },
+        "species": "Poulpe",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Jaune"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Si je mange comme quatre c'est parce que j'ai huit bras"
+    },
+    {
+        "nameFR": "Mathéo",
+        "nameEN": "Marshal",
+        "catchPhrase": "nanache",
+        "imageUrl": "matheo.png",
+        "birthday": {
+            "day": "29",
+            "month": 9
+        },
+        "species": "Écureuil",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Profite du jour présent. Demain il ne sera peut-être plus à la mode."
+    },
+    {
+        "nameFR": "Mathilda",
+        "nameEN": "Pango",
+        "catchPhrase": "pouuuuuf",
+        "imageUrl": "mathilda.png",
+        "birthday": {
+            "day": "9",
+            "month": 11
+        },
+        "species": "Tapir",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Orange", "Mauve"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "La beauté ça rend beau"
+    },
+    {
+        "nameFR": "Mathilde",
+        "nameEN": "Mathilda",
+        "catchPhrase": "riquiqui",
+        "imageUrl": "mathilde.png",
+        "birthday": {
+            "day": "12",
+            "month": 11
+        },
+        "species": "Kangourou",
+        "personality": "Arrogante 2",
+        "interest": "Sport",
+        "colors": ["Blanc", "Rouge"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Mon secret pour avoir un poil doux et brillant ? Le gel douche à l'eucalyptus."
+    },
+    {
+        "nameFR": "Maud",
+        "nameEN": "Felicity",
+        "catchPhrase": "chatounet",
+        "imageUrl": "maud.png",
+        "birthday": {
+            "day": "30",
+            "month": 3
+        },
+        "species": "Chat",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Mignon"],
+        "quote": "Arrêtez les flashs"
+    },
+    {
+        "nameFR": "Mehdi",
+        "nameEN": "Shep",
+        "catchPhrase": "pedigree",
+        "imageUrl": "mehdi.png",
+        "birthday": {
+            "day": "24",
+            "month": 11
+        },
+        "species": "Chien",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Les paparazzis aboient la classitude passe."
+    },
+    {
+        "nameFR": "Melba",
+        "nameEN": "Melba",
+        "catchPhrase": "pêchou",
+        "imageUrl": "melba.png",
+        "birthday": {
+            "day": "12",
+            "month": 4
+        },
+        "species": "Koala",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Blanc", "Vert"],
+        "clothes": ["Mignon"],
+        "quote": "Un égoïste c'est quelqu'un qui ne pense pas à moi."
+    },
+    {
+        "nameFR": "Michèle",
+        "nameEN": "Midge",
+        "catchPhrase": "loulou",
+        "imageUrl": "michele.png",
+        "birthday": {
+            "day": "12",
+            "month": 3
+        },
+        "species": "Oiseau",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rose"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Vive la migration  aux premiers frimas fais ton baluchon"
+    },
+    {
+        "nameFR": "Miglou",
+        "nameEN": "Wade",
+        "catchPhrase": "blanbec",
+        "imageUrl": "miglou.png",
+        "birthday": {
+            "day": "30",
+            "month": 10
+        },
+        "species": "Pingouin",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Somptueux", "Simple"],
+        "quote": "Tout est bon dans le cochon mais tout est meilleur dans le poisson."
+    },
+    {
+        "nameFR": "Miguel",
+        "nameEN": "Anchovy",
+        "catchPhrase": "muf-muf",
+        "imageUrl": "miguel.png",
+        "birthday": {
+            "day": "4",
+            "month": 3
+        },
+        "species": "Oiseau",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Orange"],
+        "clothes": ["Simple"],
+        "quote": "Je meurs de faim"
+    },
+    {
+        "nameFR": "Mike",
+        "nameEN": "Rooney",
+        "catchPhrase": "savate",
+        "imageUrl": "mike.png",
+        "birthday": {
+            "day": "1",
+            "month": 12
+        },
+        "species": "Kangourou",
+        "personality": "Versatile 1",
+        "interest": "Sport",
+        "colors": ["Gris", "Noir"],
+        "clothes": ["Sportif"],
+        "quote": "La discrimination je dis non."
+    },
+    {
+        "nameFR": "Miles",
+        "nameEN": "Big Top",
+        "catchPhrase": "vipère",
+        "imageUrl": "miles.png",
+        "birthday": {
+            "day": "3",
+            "month": 10
+        },
+        "species": "Éléphant",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Vert"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Je n'ai pas peur des souris. Je suis prudent quand j'en vois une ce n'est pas pareil."
+    },
+    {
+        "nameFR": "Milos",
+        "nameEN": "Camofrog",
+        "catchPhrase": "taïaut",
+        "imageUrl": "milos.png",
+        "birthday": {
+            "day": "5",
+            "month": 6
+        },
+        "species": "Grenouille",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Personne ne fait attention à moi..."
+    },
+    {
+        "nameFR": "Mina",
+        "nameEN": "Deena",
+        "catchPhrase": "youhou",
+        "imageUrl": "mina.png",
+        "birthday": {
+            "day": "27",
+            "month": 6
+        },
+        "species": "Canard",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Multicolore", "Bleu"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Le plus court chemin entre deux points c'est celui qui descend."
+    },
+    {
+        "nameFR": "Mireille",
+        "nameEN": "Nana",
+        "catchPhrase": "po po",
+        "imageUrl": "mireille.png",
+        "birthday": {
+            "day": "23",
+            "month": 8
+        },
+        "species": "Singe",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Mignon"],
+        "quote": "Une tartine qui tombe s'écrase toujours du côté beurré."
+    },
+    {
+        "nameFR": "Miro",
+        "nameEN": "Stitches",
+        "catchPhrase": "ou bien",
+        "imageUrl": "miro.png",
+        "birthday": {
+            "day": "10",
+            "month": 2
+        },
+        "species": "Ourson",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Blanc"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Dodo..."
+    },
+    {
+        "nameFR": "Mirza",
+        "nameEN": "Goldie",
+        "catchPhrase": "ouaf",
+        "imageUrl": "mirza.png",
+        "birthday": {
+            "day": "27",
+            "month": 12
+        },
+        "species": "Chien",
+        "personality": "Normale 2",
+        "interest": "Nature",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "On n'a jamais assez de soleil et zut pour les temps de chiens"
+    },
+    {
+        "nameFR": "Missy",
+        "nameEN": "Penelope",
+        "catchPhrase": "grugru",
+        "imageUrl": "missy.png",
+        "birthday": {
+            "day": "5",
+            "month": 2
+        },
+        "species": "Souris",
+        "personality": "Vive 1",
+        "interest": "Mode",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Tout ce qui est petit est mimi"
+    },
+    {
+        "nameFR": "Mistigri",
+        "nameEN": "Mitzi",
+        "catchPhrase": "meeeeeh",
+        "imageUrl": "mistigri.png",
+        "birthday": {
+            "day": "25",
+            "month": 9
+        },
+        "species": "Chat",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Marron", "Beige"],
+        "clothes": ["Simple"],
+        "quote": "La pratique y a que ça de vrai"
+    },
+    {
+        "nameFR": "Moktar",
+        "nameEN": "Kidd",
+        "catchPhrase": "mouhai",
+        "imageUrl": "moktar.png",
+        "birthday": {
+            "day": "28",
+            "month": 6
+        },
+        "species": "Chèvre",
+        "personality": "Chic 2",
+        "interest": "Education",
+        "colors": ["Gris", "Blanc"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Reste toi-même tant que tu m'aimes."
+    },
+    {
+        "nameFR": "Molly",
+        "nameEN": "Molly",
+        "catchPhrase": "canénette",
+        "imageUrl": "molly.png",
+        "birthday": {
+            "day": "7",
+            "month": 3
+        },
+        "species": "Canard",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Jaune", "Rose"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Les prises de bec très peu pour moi"
+    },
+    {
+        "nameFR": "Momo",
+        "nameEN": "Moe",
+        "catchPhrase": "miou",
+        "imageUrl": "momo.png",
+        "birthday": {
+            "day": "12",
+            "month": 1
+        },
+        "species": "Chat",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Je retombe toujours sur mes pattes."
+    },
+    {
+        "nameFR": "Monica",
+        "nameEN": "Audie",
+        "catchPhrase": "trottine",
+        "imageUrl": "monica.png",
+        "birthday": {
+            "day": "31",
+            "month": 8
+        },
+        "species": "Loup",
+        "personality": "Vive 1",
+        "interest": "Sport",
+        "colors": ["Vert", "Blanc"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "Sois toujours la personne que tu regretteras pas d'avoir été"
+    },
+    {
+        "nameFR": "Monique",
+        "nameEN": "Monique",
+        "catchPhrase": "pffffft",
+        "imageUrl": "monique.png",
+        "birthday": {
+            "day": "30",
+            "month": 9
+        },
+        "species": "Chat",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Rose"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Pas besoin de maquillage..."
+    },
+    {
+        "nameFR": "Mounia",
+        "nameEN": "Sylvana",
+        "catchPhrase": "grignote",
+        "imageUrl": "mounia.png",
+        "birthday": {
+            "day": "22",
+            "month": 10
+        },
+        "species": "Écureuil",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Vert", "Mauve"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Méfie-toi des arbres qui veulent cacher la forêt."
+    },
+    {
+        "nameFR": "Mozzar",
+        "nameEN": "Chadder",
+        "catchPhrase": "frometon",
+        "imageUrl": "mozzar.png",
+        "birthday": {
+            "day": "15",
+            "month": 12
+        },
+        "species": "Souris",
+        "personality": "Chic 1",
+        "interest": "Sport",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Je ne souris jamais en face de mon miroir ça m'éblouit."
+    },
+    {
+        "nameFR": "Myrtille",
+        "nameEN": "Bluebear",
+        "catchPhrase": "prune",
+        "imageUrl": "myrtille.png",
+        "birthday": {
+            "day": "24",
+            "month": 6
+        },
+        "species": "Ourson",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Blanc", "Bleu"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Je t'embarque on va faire les magasins"
+    },
+    {
+        "nameFR": "Nacer",
+        "nameEN": "Bam",
+        "catchPhrase": "têtedebois",
+        "imageUrl": "nacer.png",
+        "birthday": {
+            "day": "7",
+            "month": 11
+        },
+        "species": "Cerf",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Vert", "Marron"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "N'attends pas que la pluie tombe pour t'acheter un parapluie"
+    },
+    {
+        "nameFR": "Nadeige",
+        "nameEN": "Tasha",
+        "catchPhrase": "ptigri",
+        "imageUrl": "nadeige.png",
+        "birthday": {
+            "day": "30",
+            "month": 11
+        },
+        "species": "Écureuil",
+        "personality": "Arrogante 1",
+        "interest": "Sport",
+        "colors": ["Beige", "Gris"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Un secret partagé n'est plus un secret c'est déjà une trahison. Mais chut  Ne le répète pas."
+    },
+    {
+        "nameFR": "Nadia",
+        "nameEN": "Pippy",
+        "catchPhrase": "ti lièvre",
+        "imageUrl": "nadia.png",
+        "birthday": {
+            "day": "14",
+            "month": 6
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Marron"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Alors quels sont les derniers potins ?"
+    },
+    {
+        "nameFR": "Nadine",
+        "nameEN": "Francine",
+        "catchPhrase": "carotte",
+        "imageUrl": "nadine.png",
+        "birthday": {
+            "day": "22",
+            "month": 1
+        },
+        "species": "Lapin",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Je suis d'humeur bondissante"
+    },
+    {
+        "nameFR": "Nana",
+        "nameEN": "Nan",
+        "catchPhrase": "fromage",
+        "imageUrl": "nana.png",
+        "birthday": {
+            "day": "24",
+            "month": 8
+        },
+        "species": "Chèvre",
+        "personality": "Normale 2",
+        "interest": "Nature",
+        "colors": ["Orange", "Jaune"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Boum boum tralala"
+    },
+    {
+        "nameFR": "Naomie",
+        "nameEN": "Daisy",
+        "catchPhrase": "mon chou",
+        "imageUrl": "naomie.png",
+        "birthday": {
+            "day": "16",
+            "month": 11
+        },
+        "species": "Chien",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Multicolore", "Bleu"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je suis une chienne normale dans un monde de fous"
+    },
+    {
+        "nameFR": "Napoléon",
+        "nameEN": "Pierce",
+        "catchPhrase": "Sil agile",
+        "imageUrl": "napoleon.png",
+        "birthday": {
+            "day": "8",
+            "month": 1
+        },
+        "species": "Aigle",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Orange", "Jaune"],
+        "clothes": ["Sportif", "Élégant"],
+        "quote": "Si on te demande de voler demande à quelle hauteur"
+    },
+    {
+        "nameFR": "Narcisse",
+        "nameEN": "Quillson",
+        "catchPhrase": "arrêêêête",
+        "imageUrl": "narcisse.png",
+        "birthday": {
+            "day": "22",
+            "month": 12
+        },
+        "species": "Canard",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Beige", "Orange"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Même mon reflet n'a pas ma classe."
+    },
+    {
+        "nameFR": "Nathan",
+        "nameEN": "Nate",
+        "catchPhrase": "baaîîîllle",
+        "imageUrl": "nathan.png",
+        "birthday": {
+            "day": "16",
+            "month": 8
+        },
+        "species": "Ours",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Blanc", "Vert"],
+        "clothes": ["Simple"],
+        "quote": "Les journées passent trop vite. Entre les siestes et les repas je n'ai le temps de rien."
+    },
+    {
+        "nameFR": "Neferti",
+        "nameEN": "Ankha",
+        "catchPhrase": "mi-i-i-ouh",
+        "imageUrl": "neferti.png",
+        "birthday": {
+            "day": "22",
+            "month": 9
+        },
+        "species": "Chat",
+        "personality": "Arrogante 2",
+        "interest": "Nature",
+        "colors": ["Multicolore", "Marron"],
+        "clothes": ["Simple", "Somptueux"],
+        "quote": "Tout ce qui brille n'est pas d'or."
+    },
+    {
+        "nameFR": "Neige",
+        "nameEN": "Piper",
+        "catchPhrase": "puic puic",
+        "imageUrl": "neige.png",
+        "birthday": {
+            "day": "18",
+            "month": 4
+        },
+        "species": "Oiseau",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Tant qu'il y a de la vie y a des poires."
+    },
+    {
+        "nameFR": "Ninjette",
+        "nameEN": "Agent S",
+        "catchPhrase": "poto",
+        "imageUrl": "ninjette.png",
+        "birthday": {
+            "day": "2",
+            "month": 7
+        },
+        "species": "Écureuil",
+        "personality": "Vive 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Une star est née... le jour de ma naissance hi hi"
+    },
+    {
+        "nameFR": "Noémie",
+        "nameEN": "Bianca",
+        "catchPhrase": "croky",
+        "imageUrl": "noemie.png",
+        "birthday": {
+            "day": "13",
+            "month": 12
+        },
+        "species": "Tigre",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Rose", "Orange"],
+        "clothes": ["Mignon"],
+        "quote": "Mais je parle je parle... Et toi comment ça va ???"
+    },
+    {
+        "nameFR": "Nonos",
+        "nameEN": "Bones",
+        "catchPhrase": "yip yip",
+        "imageUrl": "nonos.png",
+        "birthday": {
+            "day": "4",
+            "month": 8
+        },
+        "species": "Chien",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Beige", "Marron"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "C'est cool une vie de chien"
+    },
+    {
+        "nameFR": "Nora",
+        "nameEN": "Flo",
+        "catchPhrase": "golri",
+        "imageUrl": "nora.png",
+        "birthday": {
+            "day": "2",
+            "month": 9
+        },
+        "species": "Pingouin",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Rouge", "Mauve"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Ne jamais baisser sa garde."
+    },
+    {
+        "nameFR": "Norma",
+        "nameEN": "Norma",
+        "catchPhrase": "meuh nan",
+        "imageUrl": "norma.png",
+        "birthday": {
+            "day": "20",
+            "month": 9
+        },
+        "species": "Vache",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Blanc", "Bleu", "clair"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Avec une attitude positive tu iras loin."
+    },
+    {
+        "nameFR": "Octave",
+        "nameEN": "Octavian",
+        "catchPhrase": "chenapan",
+        "imageUrl": "octave.png",
+        "birthday": {
+            "day": "20",
+            "month": 9
+        },
+        "species": "Poulpe",
+        "personality": "Versatile 2",
+        "interest": "Jeux",
+        "colors": ["Noir", "Blanc"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "La face cachée de la lune n'est pas visible à l'oeil nu ça se voit"
+    },
+    {
+        "nameFR": "Odile",
+        "nameEN": "Gayle",
+        "catchPhrase": "croquignou",
+        "imageUrl": "odile.png",
+        "birthday": {
+            "day": "17",
+            "month": 5
+        },
+        "species": "Crocodile",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Mignon"],
+        "quote": "Mieux vaut prévenir que guérir."
+    },
+    {
+        "nameFR": "Olivia",
+        "nameEN": "Olivia",
+        "catchPhrase": "rrrrrrrrr",
+        "imageUrl": "olivia.png",
+        "birthday": {
+            "day": "3",
+            "month": 2
+        },
+        "species": "Chat",
+        "personality": "Arrogante 2",
+        "interest": "Art",
+        "colors": ["Blanc", "Noir"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Les meilleurs amis savent vous mettre en valeur"
+    },
+    {
+        "nameFR": "Olympe",
+        "nameEN": "Maddie",
+        "catchPhrase": "youp",
+        "imageUrl": "olympe.png",
+        "birthday": {
+            "day": "11",
+            "month": 1
+        },
+        "species": "Chien",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Mauve", "Rose"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "L'informatique c'est fantastique"
+    },
+    {
+        "nameFR": "Opaline",
+        "nameEN": "Opal",
+        "catchPhrase": "gropif",
+        "imageUrl": "opaline.png",
+        "birthday": {
+            "day": "20",
+            "month": 1
+        },
+        "species": "Éléphant",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Noir", "Orange"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "C'est bientôt l'heure du thé..."
+    },
+    {
+        "nameFR": "Ottie",
+        "nameEN": "Sandy",
+        "catchPhrase": "euh quoi",
+        "imageUrl": "ottie.png",
+        "birthday": {
+            "day": "21",
+            "month": 10
+        },
+        "species": "Autruche",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "clair", "Blanc"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "J'ai certes des ailes mais je reste terre à terre en toute circonstance."
+    },
+    {
+        "nameFR": "Oursula",
+        "nameEN": "Ursala",
+        "catchPhrase": "groumpf",
+        "imageUrl": "oursula.png",
+        "birthday": {
+            "day": "16",
+            "month": 1
+        },
+        "species": "Ours",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Rouge", "Orange"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je papote je papote je papote  c'est pas pour rien que je suis ta pote"
+    },
+    {
+        "nameFR": "Pachy",
+        "nameEN": "Dizzy",
+        "catchPhrase": "woutchou",
+        "imageUrl": "pachy.png",
+        "birthday": {
+            "day": "14",
+            "month": 7
+        },
+        "species": "Éléphant",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Bleu"],
+        "clothes": ["Simple"],
+        "quote": "Le monde est un moelleux aux fraises..."
+    },
+    {
+        "nameFR": "Pamela",
+        "nameEN": "Hazel",
+        "catchPhrase": "tac tac",
+        "imageUrl": "pamela.png",
+        "birthday": {
+            "day": "30",
+            "month": 8
+        },
+        "species": "Écureuil",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Mignon", "Sportif"],
+        "quote": "Faut jamais dire jamais."
+    },
+    {
+        "nameFR": "Pansy",
+        "nameEN": "Agnes",
+        "catchPhrase": "sauciflard",
+        "imageUrl": "pansy.png",
+        "birthday": {
+            "day": "21",
+            "month": 4
+        },
+        "species": "Cochon",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Rose", "Blanc"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Qui sème le vent récolte que dalle."
+    },
+    {
+        "nameFR": "Paolo",
+        "nameEN": "Paolo",
+        "catchPhrase": "fanfan",
+        "imageUrl": "paolo.png",
+        "birthday": {
+            "day": "5",
+            "month": 5
+        },
+        "species": "Éléphant",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Gris", "Bleu", "clair"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Qui se ressemble se ressemble."
+    },
+    {
+        "nameFR": "Patty",
+        "nameEN": "Merengue",
+        "catchPhrase": "ma fraise",
+        "imageUrl": "patty.png",
+        "birthday": {
+            "day": "19",
+            "month": 3
+        },
+        "species": "Rhinocéros",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Blanc", "Rouge"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "La vie ? C'est du gâteau"
+    },
+    {
+        "nameFR": "Pauline",
+        "nameEN": "Pekoe",
+        "catchPhrase": "linou",
+        "imageUrl": "pauline.png",
+        "birthday": {
+            "day": "18",
+            "month": 5
+        },
+        "species": "Ourson",
+        "personality": "Normale 2",
+        "interest": "Nature",
+        "colors": ["Rouge", "Beige"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "Le passé c'est le passé rien ne sert de le ressasser."
+    },
+    {
+        "nameFR": "Paulito",
+        "nameEN": "Hippeux",
+        "catchPhrase": "tam-tam",
+        "imageUrl": "paulito.png",
+        "birthday": {
+            "day": "15",
+            "month": 10
+        },
+        "species": "Hippopotame",
+        "personality": "Chic 1",
+        "interest": "Education",
+        "colors": ["Marron", "Vert"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Hip hip hip Paulito"
+    },
+    {
+        "nameFR": "Pec",
+        "nameEN": "Peck",
+        "catchPhrase": "poupousse",
+        "imageUrl": "pec.png",
+        "birthday": {
+            "day": "25",
+            "month": 7
+        },
+        "species": "Oiseau",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Beige", "Rouge"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "La meilleure défense c'est l'attaque. Par contre l'inverse n'est pas vrai..."
+    },
+    {
+        "nameFR": "Pécan",
+        "nameEN": "Pecan",
+        "catchPhrase": "fouloulou",
+        "imageUrl": "pecan.png",
+        "birthday": {
+            "day": "10",
+            "month": 9
+        },
+        "species": "Écureuil",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Mauve", "Beige"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Ne dépense pas toutes tes clochettes. Fais des économies"
+    },
+    {
+        "nameFR": "Perle",
+        "nameEN": "Purrl",
+        "catchPhrase": "chaton",
+        "imageUrl": "perle.png",
+        "birthday": {
+            "day": "29",
+            "month": 5
+        },
+        "species": "Chat",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Gris", "Bleu"],
+        "clothes": ["Élégant", "Cool"],
+        "quote": "Ca te pose un problème si je fais mes griffes sur ton lit ?"
+    },
+    {
+        "nameFR": "Phébus",
+        "nameEN": "Buzz",
+        "catchPhrase": "flap flap",
+        "imageUrl": "phebus.png",
+        "birthday": {
+            "day": "7",
+            "month": 12
+        },
+        "species": "Aigle",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Jaune", "Rouge"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Ravale ta fierté mais ne t'étouffe pas avec."
+    },
+    {
+        "nameFR": "Phil",
+        "nameEN": "Phil",
+        "catchPhrase": "bécot",
+        "imageUrl": "phil.png",
+        "birthday": {
+            "day": "27",
+            "month": 11
+        },
+        "species": "Autruche",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Vert", "Rouge"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Le fan propose et je dispose."
+    },
+    {
+        "nameFR": "Pierrot",
+        "nameEN": "Fang",
+        "catchPhrase": "sagouin",
+        "imageUrl": "pierrot.png",
+        "birthday": {
+            "day": "18",
+            "month": 12
+        },
+        "species": "Loup",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Blanc", "Bleu", "clair"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Le gris c'est plus joli."
+    },
+    {
+        "nameFR": "Pietro",
+        "nameEN": "Pietro",
+        "catchPhrase": "bamboche",
+        "imageUrl": "pietro.png",
+        "birthday": {
+            "day": "19",
+            "month": 4
+        },
+        "species": "Mouton",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Multicolore", "Rouge"],
+        "clothes": ["Simple", "Somptueux"],
+        "quote": "J'ai une faim de loup"
+    },
+    {
+        "nameFR": "Placide",
+        "nameEN": "Chester",
+        "catchPhrase": "pla-pla",
+        "imageUrl": "placide.png",
+        "birthday": {
+            "day": "6",
+            "month": 8
+        },
+        "species": "Ourson",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Vert"],
+        "clothes": ["Simple"],
+        "quote": "Relax Max"
+    },
+    {
+        "nameFR": "Pompon",
+        "nameEN": "Pompom",
+        "catchPhrase": "rah rah",
+        "imageUrl": "pompon.png",
+        "birthday": {
+            "day": "11",
+            "month": 2
+        },
+        "species": "Canard",
+        "personality": "Vive 2",
+        "interest": "Art",
+        "colors": ["Rose", "Bleu", "clair"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Je suis en retard pour ma manucure tu peux t'occuper de ça ?"
+    },
+    {
+        "nameFR": "Poquette",
+        "nameEN": "Kitt",
+        "catchPhrase": "gamin",
+        "imageUrl": "poquette.png",
+        "birthday": {
+            "day": "11",
+            "month": 10
+        },
+        "species": "Kangourou",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Mauve", "Rouge"],
+        "clothes": ["Simple", "Élégant"],
+        "quote": "L'humour c'est de famille et chez nous on n'a pas notre langue dans la poche"
+    },
+    {
+        "nameFR": "Porken",
+        "nameEN": "Cobb",
+        "catchPhrase": "andouille",
+        "imageUrl": "porken.png",
+        "birthday": {
+            "day": "7",
+            "month": 10
+        },
+        "species": "Cochon",
+        "personality": "Sportif 2",
+        "interest": "Education",
+        "colors": ["Blanc", "Bleu"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Des muscles bien saillants valent mieux qu'une tête bien faite."
+    },
+    {
+        "nameFR": "Potama",
+        "nameEN": "Bitty",
+        "catchPhrase": "joli coeur",
+        "imageUrl": "potama.png",
+        "birthday": {
+            "day": "6",
+            "month": 10
+        },
+        "species": "Hippopotame",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Rose", "Orange"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Nécessité est mère de motivation et motivation est mère de succès."
+    },
+    {
+        "nameFR": "Poulette",
+        "nameEN": "Plucky",
+        "catchPhrase": "galine",
+        "imageUrl": "poulette.png",
+        "birthday": {
+            "day": "12",
+            "month": 10
+        },
+        "species": "Poule",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "clair", "Jaune"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Fais ce que tu as à faire et fais là où tu as à faire."
+    },
+    {
+        "nameFR": "Pouli",
+        "nameEN": "Goose",
+        "catchPhrase": "bouyaka",
+        "imageUrl": "pouli.png",
+        "birthday": {
+            "day": "4",
+            "month": 10
+        },
+        "species": "Poule",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Blanc"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Qui se ressemble s'assemble... sauf si les opposés s'attirent."
+    },
+    {
+        "nameFR": "Primo",
+        "nameEN": "Boyd",
+        "catchPhrase": "pelage",
+        "imageUrl": "primo.png",
+        "birthday": {
+            "day": "1",
+            "month": 10
+        },
+        "species": "Gorille",
+        "personality": "Versatile 1",
+        "interest": "Sport",
+        "colors": ["Rouge", "Noir"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Ne juge pas un livre à son contenu."
+    },
+    {
+        "nameFR": "Prince",
+        "nameEN": "Prince",
+        "catchPhrase": "boiiiiing",
+        "imageUrl": "prince.png",
+        "birthday": {
+            "day": "21",
+            "month": 7
+        },
+        "species": "Grenouille",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Blanc"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Si on me donne un bisou je me transforme en prince tu crois ?"
+    },
+    {
+        "nameFR": "Prof",
+        "nameEN": "Derwin",
+        "catchPhrase": "derrrr",
+        "imageUrl": "prof.png",
+        "birthday": {
+            "day": "25",
+            "month": 5
+        },
+        "species": "Canard",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Beige"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Il faut éviter l'excès. Sauf si c'est bon."
+    },
+    {
+        "nameFR": "Prune",
+        "nameEN": "Peaches",
+        "catchPhrase": "mustang",
+        "imageUrl": "prune.png",
+        "birthday": {
+            "day": "28",
+            "month": 11
+        },
+        "species": "Cheval",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Multicolore", "Bleu", "clair"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Chaque jour est un cadeau qu'offre la nuit précédente."
+    },
+    {
+        "nameFR": "Punk",
+        "nameEN": "Cyd",
+        "catchPhrase": "bastringue",
+        "imageUrl": "punk.png",
+        "birthday": {
+            "day": "9",
+            "month": 6
+        },
+        "species": "Éléphant",
+        "personality": "Versatile 1",
+        "interest": "Art",
+        "colors": ["Noir", "Jaune"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Fais ce que tu veux mais fais-le FORT"
+    },
+    {
+        "nameFR": "Quenotte",
+        "nameEN": "Bree",
+        "catchPhrase": "boulette",
+        "imageUrl": "quenotte.png",
+        "birthday": {
+            "day": "7",
+            "month": 7
+        },
+        "species": "Souris",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Noir", "Bleu"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "J'aimerais bien être une petite souris pour... Oh  J'en suis une hi hi"
+    },
+    {
+        "nameFR": "Rachida",
+        "nameEN": "Peanut",
+        "catchPhrase": "noisette",
+        "imageUrl": "rachida.png",
+        "birthday": {
+            "day": "8",
+            "month": 6
+        },
+        "species": "Écureuil",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rouge", "Multicolore"],
+        "clothes": ["Mignon"],
+        "quote": "J'ai toujours un petit truc à grignoter sur moi"
+    },
+    {
+        "nameFR": "Raina",
+        "nameEN": "Lily",
+        "catchPhrase": "watich'",
+        "imageUrl": "raina.png",
+        "birthday": {
+            "day": "4",
+            "month": 2
+        },
+        "species": "Grenouille",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Blanc", "Jaune"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Une mauvaise idée n'est pas plus facile à avoir qu'une bonne."
+    },
+    {
+        "nameFR": "Ralf",
+        "nameEN": "Rolf",
+        "catchPhrase": "grrrufff",
+        "imageUrl": "ralf.png",
+        "birthday": {
+            "day": "22",
+            "month": 8
+        },
+        "species": "Tigre",
+        "personality": "Versatile 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Tu ferais un excellent déjeuner et tu le sais."
+    },
+    {
+        "nameFR": "Ramsès",
+        "nameEN": "Lucky",
+        "catchPhrase": "graaaouch",
+        "imageUrl": "ramses.png",
+        "birthday": {
+            "day": "4",
+            "month": 11
+        },
+        "species": "Chien",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Beige", "Blanc"],
+        "clothes": ["Simple"],
+        "quote": "Ouah"
+    },
+    {
+        "nameFR": "Raymond",
+        "nameEN": "Raymond",
+        "catchPhrase": "panache",
+        "imageUrl": "raymond.png",
+        "birthday": {
+            "day": "1",
+            "month": 10
+        },
+        "species": "Chat",
+        "personality": "Chic 2",
+        "interest": "Nature",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Le style c'est moi."
+    },
+    {
+        "nameFR": "Régis",
+        "nameEN": "Zell",
+        "catchPhrase": "wapiti",
+        "imageUrl": "regis.png",
+        "birthday": {
+            "day": "7",
+            "month": 6
+        },
+        "species": "Cerf",
+        "personality": "Chic 1",
+        "interest": "Art",
+        "colors": ["Mauve", "Gris"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "M'aimer est le plus beau compliment qu'on puisse me faire."
+    },
+    {
+        "nameFR": "Reine",
+        "nameEN": "Queenie",
+        "catchPhrase": "poupoule",
+        "imageUrl": "reine.png",
+        "birthday": {
+            "day": "13",
+            "month": 11
+        },
+        "species": "Autruche",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Ce qui est grand est charmant."
+    },
+    {
+        "nameFR": "Rénata",
+        "nameEN": "Puddles",
+        "catchPhrase": "splufff",
+        "imageUrl": "renata.png",
+        "birthday": {
+            "day": "13",
+            "month": 1
+        },
+        "species": "Grenouille",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Rose"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Elle est pas belle la vie ?"
+    },
+    {
+        "nameFR": "Rénato",
+        "nameEN": "Tad",
+        "catchPhrase": "nénuf",
+        "imageUrl": "renato.png",
+        "birthday": {
+            "day": "3",
+            "month": 8
+        },
+        "species": "Grenouille",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Multicolore"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Bondis sur chaque occasion"
+    },
+    {
+        "nameFR": "Renée",
+        "nameEN": "Rhonda",
+        "catchPhrase": "grand pied",
+        "imageUrl": "renee.png",
+        "birthday": {
+            "day": "24",
+            "month": 1
+        },
+        "species": "Rhinocéros",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Mauve", "Noir"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Qui regarde les gens de haut marche en baissant la tête."
+    },
+    {
+        "nameFR": "Reynald",
+        "nameEN": "Roald",
+        "catchPhrase": "pépépère",
+        "imageUrl": "reynald.png",
+        "birthday": {
+            "day": "5",
+            "month": 1
+        },
+        "species": "Pingouin",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Mieux vaut apprendre à flotter avant de vouloir nager..."
+    },
+    {
+        "nameFR": "Rhino",
+        "nameEN": "Spike",
+        "catchPhrase": "saperlotte",
+        "imageUrl": "rhino.png",
+        "birthday": {
+            "day": "17",
+            "month": 6
+        },
+        "species": "Rhinocéros",
+        "personality": "Versatile 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "La vie dans la savane c'est vraiment la jungle"
+    },
+    {
+        "nameFR": "Rhona",
+        "nameEN": "Astrid",
+        "catchPhrase": "mon étoile",
+        "imageUrl": "rhona.png",
+        "birthday": {
+            "day": "8",
+            "month": 9
+        },
+        "species": "Kangourou",
+        "personality": "Arrogante 2",
+        "interest": "Art",
+        "colors": ["Noir", "Multicolore"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Suis mon conseil  suis toujours mes conseils"
+    },
+    {
+        "nameFR": "Rina",
+        "nameEN": "Renée",
+        "catchPhrase": "badaboum",
+        "imageUrl": "rina.png",
+        "birthday": {
+            "day": "28",
+            "month": 5
+        },
+        "species": "Rhinocéros",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Mauve", "Jaune"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Oeil pour oeil corne pour corne."
+    },
+    {
+        "nameFR": "Robert",
+        "nameEN": "Bob",
+        "catchPhrase": "pfioupf",
+        "imageUrl": "robert.png",
+        "birthday": {
+            "day": "1",
+            "month": 1
+        },
+        "species": "Chat",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Rouge"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je suis un chat  naturellement relax."
+    },
+    {
+        "nameFR": "Roberta",
+        "nameEN": "Annalisa",
+        "catchPhrase": "tap tap",
+        "imageUrl": "roberta.png",
+        "birthday": {
+            "day": "6",
+            "month": 2
+        },
+        "species": "Tapir",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Rouge", "Rose"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Suis ton coeur tu trouveras ta maison."
+    },
+    {
+        "nameFR": "Robie",
+        "nameEN": "Robin",
+        "catchPhrase": "ta-di-da",
+        "imageUrl": "robie.png",
+        "birthday": {
+            "day": "4",
+            "month": 12
+        },
+        "species": "Oiseau",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "clair", "Mauve"],
+        "clothes": ["Cool", "Élégant"],
+        "quote": "Prends toujours soin de tes ailes pour pouvoir t'envoler à tout moment"
+    },
+    {
+        "nameFR": "Rocky",
+        "nameEN": "Ricky",
+        "catchPhrase": "dingo",
+        "imageUrl": "rocky.png",
+        "birthday": {
+            "day": "14",
+            "month": 9
+        },
+        "species": "Écureuil",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Mes quenottes j'y tiens comme à la prunelle de mes dents"
+    },
+    {
+        "nameFR": "Ronchon",
+        "nameEN": "Groucho",
+        "catchPhrase": "grou-gnon",
+        "imageUrl": "ronchon.png",
+        "birthday": {
+            "day": "23",
+            "month": 10
+        },
+        "species": "Ours",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Méfiez-vous de cet individu c'est un nihiliste."
+    },
+    {
+        "nameFR": "Rosalie",
+        "nameEN": "Cheri",
+        "catchPhrase": "tralala",
+        "imageUrl": "rosalie.png",
+        "birthday": {
+            "day": "17",
+            "month": 3
+        },
+        "species": "Ourson",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Jaune", "Bleu", "clair"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Alors c'est qui la meilleure ?"
+    },
+    {
+        "nameFR": "Rosanne",
+        "nameEN": "Fuchsia",
+        "catchPhrase": "rosace",
+        "imageUrl": "rosanne.png",
+        "birthday": {
+            "day": "19",
+            "month": 9
+        },
+        "species": "Cerf",
+        "personality": "Grande Sœur 1",
+        "interest": "Art",
+        "colors": ["Rose"],
+        "clothes": ["Cool"],
+        "quote": "C'est celui qui l'dit qui l'est"
+    },
+    {
+        "nameFR": "Rosco",
+        "nameEN": "Roscoe",
+        "catchPhrase": "shérif",
+        "imageUrl": "rosco.png",
+        "birthday": {
+            "day": "16",
+            "month": 6
+        },
+        "species": "Cheval",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Attention à ce que tu fais l'oeil de Rosco est partout."
+    },
+    {
+        "nameFR": "Rose",
+        "nameEN": "Peggy",
+        "catchPhrase": "fleur",
+        "imageUrl": "rose.png",
+        "birthday": {
+            "day": "23",
+            "month": 5
+        },
+        "species": "Cochon",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "Le rose ne va pas à tout le monde c'est clair"
+    },
+    {
+        "nameFR": "Rosie",
+        "nameEN": "Rosie",
+        "catchPhrase": "flûte",
+        "imageUrl": "rosie.png",
+        "birthday": {
+            "day": "27",
+            "month": 2
+        },
+        "species": "Chat",
+        "personality": "Vive 1",
+        "interest": "Art",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Mignon"],
+        "quote": "Bienvenue dans mon fan-club"
+    },
+    {
+        "nameFR": "Rosine",
+        "nameEN": "Pinky",
+        "catchPhrase": "ouah",
+        "imageUrl": "rosine.png",
+        "birthday": {
+            "day": "9",
+            "month": 9
+        },
+        "species": "Ours",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rouge", "Rose"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Faites la fête au lieu de faire la tête"
+    },
+    {
+        "nameFR": "Rougepif",
+        "nameEN": "Rudy",
+        "catchPhrase": "alatienne",
+        "imageUrl": "rougepif.png",
+        "birthday": {
+            "day": "20",
+            "month": 12
+        },
+        "species": "Chat",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Beige"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Fais en sorte de toujours retomber sur tes pieds sauf si tu sais marcher sur les mains."
+    },
+    {
+        "nameFR": "Roy",
+        "nameEN": "Sheldon",
+        "catchPhrase": "toutouffe",
+        "imageUrl": "roy.png",
+        "birthday": {
+            "day": "26",
+            "month": 2
+        },
+        "species": "Écureuil",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Abandonner c'est offrir la victoire à son adversaire sur un plateau d'argent."
+    },
+    {
+        "nameFR": "Rubis",
+        "nameEN": "Ruby",
+        "catchPhrase": "n'oreille",
+        "imageUrl": "rubis.png",
+        "birthday": {
+            "day": "25",
+            "month": 12
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Nature",
+        "colors": ["Bleu", "clair", "Rose"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "La honte je te raconte pas"
+    },
+    {
+        "nameFR": "Rudy",
+        "nameEN": "Flip",
+        "catchPhrase": "oh hisse",
+        "imageUrl": "rudy.png",
+        "birthday": {
+            "day": "21",
+            "month": 11
+        },
+        "species": "Singe",
+        "personality": "Sportif 1",
+        "interest": "Art",
+        "colors": ["Bleu", "Jaune"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Pas de blé pas de farine. Pas de farine pas de gâteau. Pas de gâteau... pas de gâteau."
+    },
+    {
+        "nameFR": "Sabrina",
+        "nameEN": "Bettina",
+        "catchPhrase": "skouik-ik",
+        "imageUrl": "sabrina.png",
+        "birthday": {
+            "day": "12",
+            "month": 6
+        },
+        "species": "Souris",
+        "personality": "Normale 2",
+        "interest": "Education",
+        "colors": ["Blanc", "Rouge"],
+        "clothes": ["Élégant", "Simple"],
+        "quote": "Je suis une souris de bibliothèque et fière de l'être."
+    },
+    {
+        "nameFR": "Salami",
+        "nameEN": "Rasher",
+        "catchPhrase": "porcelet",
+        "imageUrl": "salami.png",
+        "birthday": {
+            "day": "7",
+            "month": 4
+        },
+        "species": "Cochon",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Arrête de me dévorer des yeux  Je ne suis pas une entrecôte"
+    },
+    {
+        "nameFR": "Samson",
+        "nameEN": "Samson",
+        "catchPhrase": "scouic",
+        "imageUrl": "samson.png",
+        "birthday": {
+            "day": "5",
+            "month": 7
+        },
+        "species": "Souris",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Si tu ne peux contourner le rocher pense à faire demi-tour."
+    },
+    {
+        "nameFR": "Savana",
+        "nameEN": "Savannah",
+        "catchPhrase": "wimbowé",
+        "imageUrl": "savana.png",
+        "birthday": {
+            "day": "25",
+            "month": 1
+        },
+        "species": "Cheval",
+        "personality": "Normale 2",
+        "interest": "Art",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Je garde la tête haute en toute circonstance henni soit qui mal y pense"
+    },
+    {
+        "nameFR": "Scooter",
+        "nameEN": "Scoot",
+        "catchPhrase": "zak zak",
+        "imageUrl": "scooter.png",
+        "birthday": {
+            "day": "13",
+            "month": 6
+        },
+        "species": "Canard",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Beige", "Bleu"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Si tu envies la voiture de ton voisin dis-toi que ton voisin envie ta maison."
+    },
+    {
+        "nameFR": "Seguin",
+        "nameEN": "Billy",
+        "catchPhrase": "eh bââlèze",
+        "imageUrl": "seguin.png",
+        "birthday": {
+            "day": "25",
+            "month": 3
+        },
+        "species": "Chèvre",
+        "personality": "Sportif 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "Mauve"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Il n'y a pas d'âge pour gagner sauf celui que j'ai."
+    },
+    {
+        "nameFR": "Sélène",
+        "nameEN": "Timbra",
+        "catchPhrase": "barbiche",
+        "imageUrl": "selene.png",
+        "birthday": {
+            "day": "21",
+            "month": 10
+        },
+        "species": "Mouton",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Vert", "Marron"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Ce qui est fait peut être défait."
+    },
+    {
+        "nameFR": "Selma",
+        "nameEN": "Marcie",
+        "catchPhrase": "wallaby",
+        "imageUrl": "selma.png",
+        "birthday": {
+            "day": "31",
+            "month": 5
+        },
+        "species": "Kangourou",
+        "personality": "Normale 1",
+        "interest": "Nature",
+        "colors": ["Rose", "Beige"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "Qui se rend chez un ami n'a jamais mal aux pieds."
+    },
+    {
+        "nameFR": "Simon",
+        "nameEN": "Simon",
+        "catchPhrase": "zzziik",
+        "imageUrl": "simon.png",
+        "birthday": {
+            "day": "19",
+            "month": 1
+        },
+        "species": "Singe",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Rouge", "Multicolore"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "Arrêter de faire le singe ? Mais je ne sais faire que ça"
+    },
+    {
+        "nameFR": "Sonya",
+        "nameEN": "Becky",
+        "catchPhrase": "côôôôt",
+        "imageUrl": "sonya.png",
+        "birthday": {
+            "day": "9",
+            "month": 12
+        },
+        "species": "Poule",
+        "personality": "Arrogante 2",
+        "interest": "Art",
+        "colors": ["Mauve", "Rose"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Je te donnerai de l'argent quand les poules auront des dents"
+    },
+    {
+        "nameFR": "Sophie",
+        "nameEN": "Blanche",
+        "catchPhrase": "viiiite",
+        "imageUrl": "sophie.png",
+        "birthday": {
+            "day": "21",
+            "month": 12
+        },
+        "species": "Autruche",
+        "personality": "Arrogante 1",
+        "interest": "Nature",
+        "colors": ["Noir", "Marron"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "L'expérience fera toujours la différence."
+    },
+    {
+        "nameFR": "Sourizzi",
+        "nameEN": "Rizzo",
+        "catchPhrase": "nouik",
+        "imageUrl": "sourizzi.png",
+        "birthday": {
+            "day": "17",
+            "month": 1
+        },
+        "species": "Souris",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Je crois que j'ai une souris à la maison..."
+    },
+    {
+        "nameFR": "Steakos",
+        "nameEN": "T-Bone",
+        "catchPhrase": "vachte",
+        "imageUrl": "steakos.png",
+        "birthday": {
+            "day": "20",
+            "month": 5
+        },
+        "species": "Taureau",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Bleu", "Noir"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Attention si vous possédez une vache."
+    },
+    {
+        "nameFR": "Stefaon",
+        "nameEN": "Beau",
+        "catchPhrase": "feufeuille",
+        "imageUrl": "stefaon.png",
+        "birthday": {
+            "day": "5",
+            "month": 4
+        },
+        "species": "Cerf",
+        "personality": "Paresseux 1",
+        "interest": "Nature",
+        "colors": ["Beige", "Orange"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je mangerais bien un morceau..."
+    },
+    {
+        "nameFR": "Stella",
+        "nameEN": "Soleil",
+        "catchPhrase": "gnognotte",
+        "imageUrl": "stella.png",
+        "birthday": {
+            "day": "9",
+            "month": 8
+        },
+        "species": "Hamster",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Rouge", "Jaune"],
+        "clothes": ["Somptueux", "Cool"],
+        "quote": "Ce qui est petit est mignon."
+    },
+    {
+        "nameFR": "Steven",
+        "nameEN": "Broccolo",
+        "catchPhrase": "flim-flam",
+        "imageUrl": "steven.png",
+        "birthday": {
+            "day": "30",
+            "month": 6
+        },
+        "species": "Souris",
+        "personality": "Paresseux 2",
+        "interest": "Jeux",
+        "colors": ["Multicolore", "Jaune"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je sens comme une odeur de fromage..."
+    },
+    {
+        "nameFR": "Sucrette",
+        "nameEN": "Candi",
+        "catchPhrase": "claquos",
+        "imageUrl": "sucrette.png",
+        "birthday": {
+            "day": "13",
+            "month": 4
+        },
+        "species": "Souris",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "clair", "Jaune"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Les modes changent mais moi je reste"
+    },
+    {
+        "nameFR": "Suzy",
+        "nameEN": "Merry",
+        "catchPhrase": "miou-mi",
+        "imageUrl": "suzy.png",
+        "birthday": {
+            "day": "29",
+            "month": 6
+        },
+        "species": "Chat",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Bleu", "clair"],
+        "clothes": ["Mignon"],
+        "quote": "Dis j'ai pas un truc coincé entre les dents ?"
+    },
+    {
+        "nameFR": "Sylvette",
+        "nameEN": "Bonbon",
+        "catchPhrase": "nananère",
+        "imageUrl": "sylvette.png",
+        "birthday": {
+            "day": "3",
+            "month": 3
+        },
+        "species": "Lapin",
+        "personality": "Vive 1",
+        "interest": "Jeux",
+        "colors": ["Bleu", "clair", "Jaune"],
+        "clothes": ["Élégant", "Mignon"],
+        "quote": "SI JE PARLE TROP FORT FAUT LE DIRE LOL"
+    },
+    {
+        "nameFR": "Tarina",
+        "nameEN": "Snooty",
+        "catchPhrase": "snif snif",
+        "imageUrl": "tarina.png",
+        "birthday": {
+            "day": "24",
+            "month": 10
+        },
+        "species": "Tapir",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Vert", "Jaune"],
+        "clothes": ["Simple"],
+        "quote": "Un ménage réussi commence par un bon coup de balai."
+    },
+    {
+        "nameFR": "Teddy",
+        "nameEN": "Teddy",
+        "catchPhrase": "grrrrrr",
+        "imageUrl": "teddy.png",
+        "birthday": {
+            "day": "26",
+            "month": 9
+        },
+        "species": "Ours",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Simple"],
+        "quote": "Plus tes bras sont gros plus beau est le magot."
+    },
+    {
+        "nameFR": "Terrine",
+        "nameEN": "Pate",
+        "catchPhrase": "coin coin",
+        "imageUrl": "terrine.png",
+        "birthday": {
+            "day": "23",
+            "month": 2
+        },
+        "species": "Canard",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Jaune", "Blanc"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Vive le chocolat"
+    },
+    {
+        "nameFR": "Théo",
+        "nameEN": "Poncho",
+        "catchPhrase": "nounours",
+        "imageUrl": "theo.png",
+        "birthday": {
+            "day": "2",
+            "month": 1
+        },
+        "species": "Ourson",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Orange", "Jaune"],
+        "clothes": ["Simple"],
+        "quote": "La chance sourit aux audacieux... et aux costauds."
+    },
+    {
+        "nameFR": "Tigri",
+        "nameEN": "Tabby",
+        "catchPhrase": "mi-AOUUH",
+        "imageUrl": "tigri.png",
+        "birthday": {
+            "day": "13",
+            "month": 8
+        },
+        "species": "Chat",
+        "personality": "Vive 2",
+        "interest": "Art",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Cool", "Sportif"],
+        "quote": "Je m'aime"
+    },
+    {
+        "nameFR": "Tiphaine",
+        "nameEN": "Tiffany",
+        "catchPhrase": "pinpin",
+        "imageUrl": "tiphaine.png",
+        "birthday": {
+            "day": "9",
+            "month": 1
+        },
+        "species": "Lapin",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Noir", "Rouge"],
+        "clothes": ["Cool", "Somptueux"],
+        "quote": "J'ai toujours été mûre pour mon âge. Quand j'étais petite j'ai même sauté une classe."
+    },
+    {
+        "nameFR": "Tirbou",
+        "nameEN": "Curly",
+        "catchPhrase": "coink",
+        "imageUrl": "tirbou.png",
+        "birthday": {
+            "day": "26",
+            "month": 7
+        },
+        "species": "Cochon",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Jaune", "Multicolore"],
+        "clothes": ["Sportif", "Simple"],
+        "quote": "J'aime me rouler dans la boue et alors ?"
+    },
+    {
+        "nameFR": "Titi",
+        "nameEN": "Twiggy",
+        "catchPhrase": "coolos",
+        "imageUrl": "titi.png",
+        "birthday": {
+            "day": "13",
+            "month": 7
+        },
+        "species": "Oiseau",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Bleu"],
+        "clothes": ["Mignon", "Simple"],
+        "quote": "Je t'aaaadoooore toi"
+    },
+    {
+        "nameFR": "Tom",
+        "nameEN": "Tom",
+        "catchPhrase": "mistigri",
+        "imageUrl": "tom.png",
+        "birthday": {
+            "day": "10",
+            "month": 12
+        },
+        "species": "Chat",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "Ma botte secrète c'est de viser les yeux."
+    },
+    {
+        "nameFR": "Tonton",
+        "nameEN": "Curlos",
+        "catchPhrase": "toison",
+        "imageUrl": "tonton.png",
+        "birthday": {
+            "day": "8",
+            "month": 5
+        },
+        "species": "Mouton",
+        "personality": "Chic 2",
+        "interest": "Nature",
+        "colors": ["Rouge", "Vert"],
+        "clothes": ["Somptueux", "Sportif"],
+        "quote": "Connais-moi moi-même."
+    },
+    {
+        "nameFR": "Tony",
+        "nameEN": "Colton",
+        "catchPhrase": "hue hue",
+        "imageUrl": "tony.png",
+        "birthday": {
+            "day": "22",
+            "month": 5
+        },
+        "species": "Cheval",
+        "personality": "Chic 1",
+        "interest": "Nature",
+        "colors": ["Bleu", "Rouge"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Crinière au vent et vent en croupe"
+    },
+    {
+        "nameFR": "Toto",
+        "nameEN": "Vic",
+        "catchPhrase": "moumoul",
+        "imageUrl": "toto.png",
+        "birthday": {
+            "day": "29",
+            "month": 12
+        },
+        "species": "Taureau",
+        "personality": "Versatile 1",
+        "interest": "Sport",
+        "colors": ["Bleu", "clair", "Bleu"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Le bonheur vient forcément si on l'attend assez longtemps."
+    },
+    {
+        "nameFR": "Trufa",
+        "nameEN": "Truffles",
+        "catchPhrase": "jambon",
+        "imageUrl": "trufa.png",
+        "birthday": {
+            "day": "28",
+            "month": 7
+        },
+        "species": "Cochon",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Rouge"],
+        "clothes": ["Somptueux", "Mignon"],
+        "quote": "Après tout l'argent est fait pour être dépensé non ?"
+    },
+    {
+        "nameFR": "Tupux",
+        "nameEN": "Stinky",
+        "catchPhrase": "miaoum",
+        "imageUrl": "tupux.png",
+        "birthday": {
+            "day": "17",
+            "month": 8
+        },
+        "species": "Chat",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Bleu"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "Si tu perds le nord tu risques d'être à l'ouest..."
+    },
+    {
+        "nameFR": "Tutu",
+        "nameEN": "Tutu",
+        "catchPhrase": "pic pic",
+        "imageUrl": "tutu.png",
+        "birthday": {
+            "day": "15",
+            "month": 9
+        },
+        "species": "Ours",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Rose", "Rouge"],
+        "clothes": ["Simple", "Mignon"],
+        "quote": "Amis pour la vie"
+    },
+    {
+        "nameFR": "Urbain",
+        "nameEN": "Iggly",
+        "catchPhrase": "zozio",
+        "imageUrl": "urbain.png",
+        "birthday": {
+            "day": "2",
+            "month": 11
+        },
+        "species": "Pingouin",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Bleu"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "L'ensemble est supérieur à la somme des parties."
+    },
+    {
+        "nameFR": "Valé",
+        "nameEN": "Tipper",
+        "catchPhrase": "choupette",
+        "imageUrl": "vale.png",
+        "birthday": {
+            "day": "25",
+            "month": 8
+        },
+        "species": "Vache",
+        "personality": "Arrogante 2",
+        "interest": "Mode",
+        "colors": ["Multicolore", "Rose"],
+        "clothes": ["Mignon", "Somptueux"],
+        "quote": "Je suis vachement classe non ?"
+    },
+    {
+        "nameFR": "Vanessa",
+        "nameEN": "Tammy",
+        "catchPhrase": "grifouille",
+        "imageUrl": "vanessa.png",
+        "birthday": {
+            "day": "23",
+            "month": 6
+        },
+        "species": "Ourson",
+        "personality": "Grande Sœur 1",
+        "interest": "Jeux",
+        "colors": ["Rouge", "Mauve"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "Qui s'y frotte s'y pique"
+    },
+    {
+        "nameFR": "Vanina",
+        "nameEN": "Claudia",
+        "catchPhrase": "grou grou",
+        "imageUrl": "vanina.png",
+        "birthday": {
+            "day": "22",
+            "month": 11
+        },
+        "species": "Tigre",
+        "personality": "Arrogante 1",
+        "interest": "Art",
+        "colors": ["Mauve", "Blanc"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Mords la vie à pleines dents"
+    },
+    {
+        "nameFR": "Véra",
+        "nameEN": "Velma",
+        "catchPhrase": "tu vois",
+        "imageUrl": "vera.png",
+        "birthday": {
+            "day": "14",
+            "month": 1
+        },
+        "species": "Chèvre",
+        "personality": "Arrogante 2",
+        "interest": "Education",
+        "colors": ["Bleu", "clair", "Mauve"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Apprends à ménager la chèvre et le chou."
+    },
+    {
+        "nameFR": "Verbert",
+        "nameEN": "Frobert",
+        "catchPhrase": "breup",
+        "imageUrl": "verbert.png",
+        "birthday": {
+            "day": "8",
+            "month": 2
+        },
+        "species": "Grenouille",
+        "personality": "Sportif 2",
+        "interest": "Sport",
+        "colors": ["Bleu", "Multicolore"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "C'est de la cime de l'arbre que la vue est la plus belle"
+    },
+    {
+        "nameFR": "Victor",
+        "nameEN": "Hopper",
+        "catchPhrase": "manette",
+        "imageUrl": "victor.png",
+        "birthday": {
+            "day": "6",
+            "month": 4
+        },
+        "species": "Pingouin",
+        "personality": "Versatile 2",
+        "interest": "Art",
+        "colors": ["Jaune", "Rouge"],
+        "clothes": ["Simple", "Cool"],
+        "quote": "C'est mon meilleur profil."
+    },
+    {
+        "nameFR": "Victoria",
+        "nameEN": "Victoria",
+        "catchPhrase": "susucre",
+        "imageUrl": "victoria.png",
+        "birthday": {
+            "day": "11",
+            "month": 7
+        },
+        "species": "Cheval",
+        "personality": "Vive 2",
+        "interest": "Sport",
+        "colors": ["Jaune", "Orange"],
+        "clothes": ["Simple", "Sportif"],
+        "quote": "On ne vit qu'une fois il faut en profiter un max"
+    },
+    {
+        "nameFR": "Violette",
+        "nameEN": "Diva",
+        "catchPhrase": "cuicuisse",
+        "imageUrl": "violette.png",
+        "birthday": {
+            "day": "2",
+            "month": 10
+        },
+        "species": "Grenouille",
+        "personality": "Grande Sœur 1",
+        "interest": "Sport",
+        "colors": ["Mauve", "Bleu", "clair"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Tendre l'autre joue ? Même pas en rêve"
+    },
+    {
+        "nameFR": "Viviane",
+        "nameEN": "Vivian",
+        "catchPhrase": "crocroque",
+        "imageUrl": "viviane.png",
+        "birthday": {
+            "day": "26",
+            "month": 1
+        },
+        "species": "Loup",
+        "personality": "Arrogante 1",
+        "interest": "Education",
+        "colors": ["Gris", "Mauve"],
+        "clothes": ["Élégant", "Somptueux"],
+        "quote": "Vive Viviane"
+    },
+    {
+        "nameFR": "Vladimir",
+        "nameEN": "Vladimir",
+        "catchPhrase": "niet",
+        "imageUrl": "vladimir.png",
+        "birthday": {
+            "day": "2",
+            "month": 8
+        },
+        "species": "Ourson",
+        "personality": "Versatile 2",
+        "interest": "Jeux",
+        "colors": ["Jaune", "Multicolore"],
+        "clothes": ["Cool", "Simple"],
+        "quote": "Un malheur ne vient jamais seul."
+    },
+    {
+        "nameFR": "Walt",
+        "nameEN": "Walt",
+        "catchPhrase": "popoche",
+        "imageUrl": "walt.png",
+        "birthday": {
+            "day": "24",
+            "month": 4
+        },
+        "species": "Kangourou",
+        "personality": "Versatile 1",
+        "interest": "Sport",
+        "colors": ["Noir", "Gris"],
+        "clothes": ["Cool"],
+        "quote": "Le malheur le bonheur la pluie le beau temps... c'est dans la tête."
+    },
+    {
+        "nameFR": "Wendy",
+        "nameEN": "Paula",
+        "catchPhrase": "léchouille",
+        "imageUrl": "wendy.png",
+        "birthday": {
+            "day": "22",
+            "month": 3
+        },
+        "species": "Ours",
+        "personality": "Grande Sœur 2",
+        "interest": "Sport",
+        "colors": ["Orange", "Vert"],
+        "clothes": ["Sportif", "Mignon"],
+        "quote": "Faut jamais s'avouer vaincu"
+    },
+    {
+        "nameFR": "Wolfgang",
+        "nameEN": "Wolfgang",
+        "catchPhrase": "snurffff",
+        "imageUrl": "wolfgang.png",
+        "birthday": {
+            "day": "25",
+            "month": 11
+        },
+        "species": "Loup",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Noir", "Vert"],
+        "clothes": ["Sportif", "Cool"],
+        "quote": "C'est au pied du phare qu'il fait le plus sombre."
+    },
+    {
+        "nameFR": "Wolfram",
+        "nameEN": "Knox",
+        "catchPhrase": "ra-ta-tak",
+        "imageUrl": "wolfram.png",
+        "birthday": {
+            "day": "23",
+            "month": 11
+        },
+        "species": "Poule",
+        "personality": "Versatile 2",
+        "interest": "Education",
+        "colors": ["Marron", "Rouge"],
+        "clothes": ["Somptueux", "Élégant"],
+        "quote": "Touche pas à mon nid de poule."
+    },
+    {
+        "nameFR": "Zabou",
+        "nameEN": "Charlise",
+        "catchPhrase": "verlue",
+        "imageUrl": "zabou.png",
+        "birthday": {
+            "day": "17",
+            "month": 4
+        },
+        "species": "Ours",
+        "personality": "Grande Sœur 2",
+        "interest": "Sport",
+        "colors": ["Rouge", "Orange"],
+        "clothes": ["Mignon", "Sportif"],
+        "quote": "Moins de réflexion plus d'action"
+    },
+    {
+        "nameFR": "Zoé",
+        "nameEN": "Carmen",
+        "catchPhrase": "pinou-nou",
+        "imageUrl": "zoe.png",
+        "birthday": {
+            "day": "6",
+            "month": 1
+        },
+        "species": "Lapin",
+        "personality": "Vive 2",
+        "interest": "Mode",
+        "colors": ["Vert", "Beige"],
+        "clothes": ["Mignon", "Élégant"],
+        "quote": "C'est super à la mode j'adooore"
+    }
+]

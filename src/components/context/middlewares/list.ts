@@ -8,5 +8,10 @@ export const list: express.Handler[] = [
 ];
 
 export function getGlobal(): express.Handler[] {
-    return [middlewares.addContext, middlewares.authorise, middlewares.self];
+    return [
+        middlewares.addContext,
+        middlewares.authorise,
+        middlewares.self,
+        middlewares.addApplyQueryParams,
+    ];
 }

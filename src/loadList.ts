@@ -14,7 +14,7 @@ for (let comp in components) {
     console.log("adding component to load list: ", comp);
     loadList.push({
         getMiddlewares: components[comp]?.middlewares?.getGlobal,
-        useRouter: components[comp]?.useRouter,
+        useRouter: components[comp]?.useRouter || components[comp]?.router?.useRouter,
     });
 }
 
