@@ -1,6 +1,35 @@
 import * as express from "express";
 import { DocumentQuery } from "mongoose";
 
+function joinIfArrayApply(req: express.Request, field: string) {
+    if (
+        req.query[field] instanceof Array &&
+        req.query[field].length &&
+        typeof req.query[field][0] == "string"
+    ) {
+        req.query[field] = (req.query[field] as string[]).join(", ");
+    }
+}
+
+function joinIfArray(req: express.Request, fields: string[]) {
+    for (let field in fields) {
+        joinIfArrayApply(req, field);
+    }
+}
+
+function applyForOneOrArray(req: express.Request, field: string, cb: (arg: any) => void) {
+    let val = req.query[field];
+    if (val) {
+        if (val instanceof Array) {
+            for (let entry of val) {
+                cb(entry);
+            }
+        } else if (typeof val == "string" && val.length) {
+            cb(val);
+        }
+    }
+}
+
 function applyQueryParam(this: express.Request, dbQuery: DocumentQuery<any, any>) {
     let limit = 20;
     let page = 0;
@@ -23,13 +52,15 @@ function applyQueryParam(this: express.Request, dbQuery: DocumentQuery<any, any>
 
     dbQuery.limit(limit).skip(page * limit);
 
-    if (this.query["select"] instanceof Array) {
-        this.query["select"] = this.query["select"].join(" ");
-    }
+    // joinIfArray(this, ["select", "populate"]);
 
-    if (typeof this.query["select"] == "string") {
-        dbQuery.select(this.query["select"]);
-    }
+    applyForOneOrArray(this, "select", (arg) => {
+        dbQuery.select(arg);
+    });
+    applyForOneOrArray(this, "populate", (arg) => {
+        console.log("pop with ", arg);
+        dbQuery.populate(arg);
+    });
 }
 
 /**

@@ -1,8 +1,7 @@
 import Webapp from "./webapp";
-import dbConnect, { memoryDbConnect } from "./dbConnect";
+import dbConnect from "./dbConnect";
 import * as mongoose from "mongoose";
 import * as assert from "assert";
-import seed from "./components/villagers/seed";
 
 async function start() {
     let app: Webapp;
@@ -17,7 +16,8 @@ async function start() {
     let odm: typeof mongoose;
     try {
         if (process.env.TEST == "1") {
-            odm = await memoryDbConnect();
+            let dbMemory = await import("./dbConnectMemory");
+            odm = await dbMemory.default();
         } else {
             odm = await dbConnect();
         }
@@ -30,4 +30,3 @@ async function start() {
     }
 }
 start();
-seed();

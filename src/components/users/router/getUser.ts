@@ -21,7 +21,7 @@ let handler: express.Handler = async (req, res) => {
         } else {
             let dto: Partial<users.User> = user.toObject();
             if (req.context.author._id != id && !req.context.author.admin) {
-                delete dto.admin, dto.state, dto.discord.locale, dto.discord.id;
+                delete dto.admin, dto.discord.locale, dto.discord.id;
             }
             res.send(user);
         }

@@ -1,4 +1,3 @@
 // Automatically generated index
-export * from "./getAll";
-export * from "./getSpecies";
+export * from "./getUser";
 export * from "./router";

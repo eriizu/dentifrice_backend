@@ -28,12 +28,6 @@ export class DiscordUser {
     locale?: string;
 }
 
-export enum State {
-    Activated = 1,
-    Deactivated = 2,
-    Banned = 3,
-}
-
 @modelOptions({ schemaOptions: { timestamps: true } })
 // @queryMethod(queryHelpers.findByTag)
 export class User {
@@ -42,12 +36,6 @@ export class User {
      */
     @prop({ _id: false, required: true })
     discord!: DiscordUser;
-
-    /**
-     * Is the user activated or not?
-     */
-    @prop({ required: true, default: State.Activated })
-    state!: State;
 
     /**
      * Has the user admin priviledges?
@@ -122,44 +110,6 @@ export class User {
             );
         }
         return user;
-    }
-
-    /**
-     * Creates a user in DB for the logged in discord user.
-     * @param this the user ODM model
-     * @param client discord client connected as the user to create in our DB.
-     */
-    static async createFromDiscordClient(this: typeof model, client: discord.Client) {
-        // let user = new model({
-        //     discord: {
-        //         id: client.user.id,
-        //         tag: client.user.tag,
-        //         username: client.user.username,
-        //         avatar: client.user.avatar,
-        //     },
-        // } as Partial<DocumentType<User>>);
-        // user = await user.save();
-        // console.log("created a user: ", user.discord.username);
-        // return user;
-    }
-
-    /**
-     * Updates and saves the user, using the provided logged in discord client.
-     * @param this a user document
-     * @param client the discord client, logged in as the user we are updating
-     */
-    async updateFromDiscordClient(this: DocumentType<User>, client: discord.Client) {
-        // this.set({
-        //     discord: {
-        //         id: client.user.id,
-        //         tag: client.user.tag,
-        //         username: client.user.username,
-        //         avatar: client.user.avatar,
-        //     },
-        // } as Partial<DocumentType<User>>);
-        // let user = await this.save();
-        // console.log("updated a user: ", this.discord.username);
-        // return user;
     }
 }
 

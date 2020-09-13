@@ -16,8 +16,10 @@ export default class HttpError extends Error {
     }
 
     public discharge(res: express.Response) {
-        if (this.message != "" && this.payload) {
+        if (this.message && this.message.length && this.payload) {
             res.status(this.httpStatus).send({ message: this.message, ...this.payload });
+        } else if ((!this.message || !this.message.length) && this.payload) {
+            res.status(this.httpStatus).send(this.payload);
         } else if (this.message != "") {
             res.status(this.httpStatus).send({ message: this.message });
         } else {

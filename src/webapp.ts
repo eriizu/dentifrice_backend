@@ -3,6 +3,7 @@ import * as http from "http";
 import * as cors from "cors";
 import * as bodyParser from "body-parser";
 import * as HttpError from "./HttpError";
+import * as dbErrorMatcher from "./dbErrorMatcher";
 
 import components from "./loadList";
 
@@ -42,6 +43,7 @@ export default class webapp {
     }
 
     loadErrorHandlers() {
+        this.express.use(dbErrorMatcher.handler);
         this.express.use(HttpError.handler);
     }
 }

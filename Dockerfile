@@ -1,8 +1,8 @@
 FROM node:alpine AS build
 
-WORKDIR /build
+WORKDIR /app
 
-COPY package*.json yarn.lock ./
+COPY package.json yarn.lock ./
 
 RUN yarn
 
@@ -10,14 +10,16 @@ COPY . .
 
 RUN yarn build
 
-FROM node:alpine
+FROM node:alpine as PROD
 
 WORKDIR /app
 
-COPY --from=build /build/package.json /app
+COPY package.json yarn.lock ./
 
 RUN yarn --prod
 
-COPY --from=build /build/dist /app/dist
+COPY --from=build /app/dist ./
 
-CMD [ "yarn", "start" ]
+EXPOSE 3000
+
+CMD [ "node", "index.js" ]
