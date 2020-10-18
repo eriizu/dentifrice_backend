@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -
+        name: Get the version
+        id: get_version
+        run: echo ::set-output name=VERSION::$(echo $GITHUB_REF | cut -d / -f 3)
+      -
         name: Checkout
         uses: actions/checkout@v2
       -
@@ -33,5 +37,5 @@ jobs:
           platforms: linux/amd64,linux/arm/v7,linux/arm64
           push: true
           tags: |
-            eriizu/dentifrice-backend:${{ github.ref }}
+            eriizu/dentifrice-backend:${{ steps.get_version.outputs.VERSION }}
             
